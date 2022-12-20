@@ -22,3 +22,11 @@ $ source venv/bin/activate
 // to deactivate
 (venv)...$ deactivate
 ```
+
+Note - Error Deploy from GitHub on Netlify:
+8:27:54 PM: /opt/build-bin/run-build-functions.sh: line 351: /opt/buildhome/python#: No such file or directory
+8:27:54 PM: Error setting python version from runtime.txt
+8:27:54 PM: Please see https://github.com/netlify/build-image/blob/focal/included_software.md for current versions
+8:27:54 PM: Failed during stage 'building site': Build script returned non-zero exit code: 1 (https://ntl.fyi/exit-code-1)
+
+For now I had to deploy manually.
