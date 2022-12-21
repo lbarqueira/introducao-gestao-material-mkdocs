@@ -1,9 +1,14 @@
 # Introdução
 
-O objetivo deste site é apresentar uma introdução à gestão. A informação aqui documentada tem 
-por base os conteúdos programáticos de vários cursos introdutórios à gestão e finanças realizados em universidades portuguesas, nomeadamente, no IST (Instituto Superior Técnico).   
+O objetivo deste site é apresentar uma introdução à gestão, mais concretamente, sobre os seguintes temas:
 
-A informação teórica é sintética, como se de um ___formulário___ se tratasse, com várias referências a exercicíos práticos.
+- A informação financeira;
+- Introdução ao cálculo financeiro;
+- Projetos de investimento.
+
+A informação aqui documentada tem por base os conteúdos programáticos de vários cursos introdutórios à gestão e finanças realizados em universidades portuguesas, nomeadamente, no IST (Instituto Superior Técnico).   
+
+A informação teórica é sintética, como se de um ___formulário___ se tratasse, complementada por exercicíos práticos que ilustram a sua aplicação.
 
 O livro de referência para a sintese teórica é essencialmente [Gestão – Conceitos e Exercícios Práticos](https://www.wook.pt/livro/gestao-conceitos-e-exercicios-praticos-joao-oliveira-soares/27394180) de João Oliveira Soares.
 
@@ -16,6 +21,6 @@ O livro de referência para a sintese teórica é essencialmente [Gestão – Co
 
 Principais objetivos a alcançar com a informação disponibilizada neste site:
 
--   Informação téorica/conceitos tipo formulário para consulta simples e eficaz;
--   Exercícios práticos para cimentar a teoria;
--   Facilidade de consulta.
+- Informação téorica/conceitos tipo formulário para consulta simples e eficaz;
+- Exercícios práticos para cimentar a teoria;
+- Facilidade de consulta.

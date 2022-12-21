@@ -17,4 +17,3 @@
 
 ## Anuidades e perpetuidades
 
-## Exercícios

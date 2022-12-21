@@ -3,16 +3,24 @@ site_name: Introdução à Gestão
 # define TOC or order of website-
 nav:
   - Introdução: index.md
-  - Informação Financeira: inf_financeira.md
-  - Calculo Financeiro: cal_financeiro.md
+  - Informação Financeira:
+      - Informação Financeira: inf_financeira.md
+      - Exercícios: exercicios_1.md
+  - Cálculo Financeiro:
+      - Cálculo Financeiro: cal_financeiro.md
+      - Exercícios: exercicios_2.md
 
 site_author: Luis Barqueira
+site_url: https://tourmaline-klepon-15f45d.netlify.app/
+edit_uri: 'tree/main/docs'
+docs_dir: docs
+
 site_description:
   Introdução à gestão, teoria e exercícios
 
 # Repository
 repo_name: lbarqueira/introducao-gestao-material-mkdocs
-repo_url: https://github.com/lbarqueira/introducao-gestao-material-mkdocs.git
+repo_url: https://github.com/lbarqueira/introducao-gestao-material-mkdocs
 
 # Configuration
 theme:
