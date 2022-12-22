@@ -43,6 +43,8 @@ $$ \normalsize {\text{Ativo} = \text{Passivo} + \text{Capital Próprio}} $$
 
 $$ \normalsize {\Delta\text{Ativo} = \Delta\text{Passivo} + \Delta\text{Capital Próprio}} $$
 
+Ao longo do tempo, qualquer variação no Ativo deverá ser compensada por igual variação no Capital Próprio ou no PASSIVO (Capital Alheio) ou por variação simétrica no próprio Ativo
+
 Cada ocorrência (ou transação) para além de obedecer à equação fundamental da contabilidade, dá origem a, pelo menos, duas alterações (ou registos) do mesmo sinal em lados opostos do __balanço__, ou duas alterações de sinal contrário se no mesmo lado. Esta técnica é conhecida por princípio da __dupla entrada__ ou __Método das Partidas Dobradas__.
 
 

@@ -53,6 +53,10 @@ extra:
       link: https://twitter.com/barqueira
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/luis-barqueira-7369092/
+  analytics:
+    provider: google
+    property: G-B8GM3TBF6K
+
 
 markdown_extensions:
   - pymdownx.arithmatex:
