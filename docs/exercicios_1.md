@@ -54,26 +54,55 @@ $$ {\text{Património Líquido (}}={\text{Capital Próprio ou Situação Líquid
 
 #### Exercicio 3
 
-çahsjdfshdçfjlhsdjhf
+Exemplos de operações com aplicação da dupla entrada:
 
-çjasfhdjçsdhçfjhsçjdfh
+(1) Constituição de uma empresa com entrada de dinheiro pelos sócios em 40.000€;
 
-çjashdçfjhsdjfhjdshjf
+(2) Compra de equipamento a pronto pagamento no valor de 30.000€;
 
-hasgdlgsflhsgdfhlglh
+(3) Compra de mercadoria a crédito no valor de 5.000€;
 
-aklsfkhsgdflhksgdhgflsadf
+(4) Compra de mais 3.000€ de mercadoria, 50% a pronto, 50% a crédito.
 
-açfsdfhsfhdçjsdhfçjhsçjd
-
-kasfsfksgdlçgfksggfasdghk
+<figure markdown>
+  <img src="../images/tabela_23.png24" width="600">
+  <figcaption>Aplicação da dupla entrada</figcaption>
+</figure>
 
 
 #### Exercicio 4
 
-o meu nome é luis
+<u>Nota: A Demonstração de Resultados não se orienta pelo tempo da Demonstração de Fluxos de Caixa, mas pelo __tempo económico__, </u>
 
-tenho muitas
+Registou-se uma venda com a emissão de uma fatura. O __tempo económico__ a que essa transação diz respeito é o do período ou exercício em que se facultou o bem ou serviço ao cliente, independentemente de ele ter pago a pronto pagamento ou não. Assim, aquela ocorrência dará origem a:
+
+- um aumento da dívida de clientes no lado esquerdo (ativo corrente) do Balanço;
+- ao registo da venda na Demonstração de Resultados, com consequente aumento do resultado líquido do período e consequente aumento do capital próprio, no lado esquerdo do Balanço;
+- a uma diminuição do inventário, no lado esquerdo do Balanço, pelo custo do que foi vendido;
+- ao registo desse mesmo custo (negativo), que será subtraído na Demonstração de Resultados, com a consequente diminuição do resultado no capital próprio, no lado direito do Balanço.
+
+Posteriormente, no período ou exercício $^{(1)}$ em que o cliente vier a pagar, faz-se:
+
+- a anulação da dívida do cliente no lado esquerdo do balanço (ativo corrente);
+- por contrapartida, o aumento da caixa, também no lado esquerdo do balanço (ativo).
+
+É nessa altura que o recebimento será registado na Demonstração de Fluxos de Caixa.
+
+$^{(1)}$ Usamos alternativamente a período (período de tempo) a designação de exercício contabilístico (p.ex: exercício de 1 janeiro 2010 a 31 dezembro de 2010).
 
 #### Exercicio 5
+
+Com as operações:
+
+(1) Pagamento de rendas de aluguer de um escritório de 2.000€;
+
+(2) Venda de mercadoria a crédito por 10.000€ (2.1) que custou 7.000€ (2.2);
+
+(3) A empresa pagou juros de um empréstimo no valor de 500€.
+
+
+#### Exercicio 6
+
+
+#### Exercicio 7
 
