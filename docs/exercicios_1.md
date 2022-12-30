@@ -77,7 +77,7 @@ Exemplos de operações com aplicação da dupla entrada:
 Registou-se uma venda com a emissão de uma fatura. O __tempo económico__ a que essa transação diz respeito é o do período ou exercício em que se facultou o bem ou serviço ao cliente, independentemente de ele ter pago a pronto pagamento ou não. Assim, aquela ocorrência dará origem a:
 
 - um aumento da dívida de clientes no lado esquerdo (ativo corrente) do Balanço;
-- ao registo da venda na Demonstração de Resultados, com consequente aumento do resultado líquido do período e consequente aumento do capital próprio, no lado esquerdo do Balanço;
+- ao registo da venda na Demonstração de Resultados, com consequente aumento do resultado líquido do período e consequente aumento do capital próprio, no lado direito do Balanço;
 - a uma diminuição do inventário, no lado esquerdo do Balanço, pelo custo do que foi vendido;
 - ao registo desse mesmo custo (negativo), que será subtraído na Demonstração de Resultados, com a consequente diminuição do resultado no capital próprio, no lado direito do Balanço.
 
@@ -100,9 +100,51 @@ Com as operações:
 
 (3) A empresa pagou juros de um empréstimo no valor de 500€.
 
+<figure markdown>
+  <img src="../images/tabela_28.png24" width="600">
+  <figcaption>Demonstração Resultados Por Funções</figcaption>
+</figure>
 
 #### Exercicio 6
 
+Em __janeiro de 2020__, a Rita, o Tomás e o Rui, após terminarem o curso de Eng. Eletrotécnica, criaram e iniciaram a atividade de uma empresa comercial de produtos de informática. Nesse mês ocorreram os seguintes factos:
+
+__(1)__ Para iniciar a atividade, cada um dos três sócios participou com um capital de 10.000€, totalmente realizado em dinheiro;
+
+__(2)__ Contração de empréstimo bancário de médio longo prazo no montante de 100.000€;
+
+__(3)__ Aquisição de uma loja pelo montante de 80.000€. Pagamento efetuado no ato da escritura (a 01/01/2020);
+
+__(4)__ Compra de diversos equipamentos e acessórios de informática para posterior comercialização. O valor da compra foi de 20.000€ e as condições de pagamento acordadas com o fornecedor foram: a 90 dias da data da fatura;
+
+__(5)__ Durante o 1.º mês a empresa faturou 15.000€, com pagamento a 60 dias. O material vendido teve um custo de aquisição de 10.000€;
+
+__(6)__ Pagou-se no final do mês ordenados e outros encargos com o pessoal no montante de 1.500€.
+
+__Elabore o Balanço no dia 31/1/2020 e a Demonstração de Resultados do mês de janeiro.__
+
+R:
+
+<figure markdown>
+  <img src="../images/exercicio_7_cap2.png" width="700">
+  <figcaption>Balanço e DR Por Funções</figcaption>
+</figure> 
 
 #### Exercicio 7
 
+__(1)__ A empresa comprou novas instalações por 30.000€, tendo pedido um empréstimo bancário para financiar a compra que terá de pagar de uma só vez ao fim de 10 anos;
+
+__(2)__ _As instalações serão utilizadas durante 20 anos, pelo que devido ao seu uso, valerão menos ao fim de cada ano. A __lei fiscal__ permite à empresa contabilizar como gasto um decréscimo anual de 5% do valor das instalações_;
+
+__(3)__ Ao fim do 1º ano, o valor contabilístico das instalações é de __28.500€__, ou seja:
+
+$$ {\text{Ativo fixo tangível Líquido (28.500 €)}}={\text{Ativo fixo tangível Bruto (30.000€) – Depreciações Acumuladas (1.500 €)}} $$ 
+
+__Nota__: As depreciações e amortizações __são um gasto__ que não dá origem a pagamento mas tem um impacto fiscal -> mais gastos, menos resultado antes de impostos, menos impostos.
+
+<figure markdown>
+  <img src="../images/tabela_29.png" width="700">
+  <figcaption>Depreciações</figcaption>
+</figure>
+
+#### Exercicio 8

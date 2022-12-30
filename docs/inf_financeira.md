@@ -56,14 +56,16 @@ O Balanço é uma ***fotografia num dado momento*** (fim do ano, do semestre ou 
 
 Uma apresentação mais detalhada do balanço e dos restantes mapas encontra-se em [Portaria n.º 220/2015, de 24 de julho](https://www.cnc.min-financas.pt/pdf/SNC/2016/Portaria_220_2015_24Jul_DF.pdf).
 
+Para ver a lista de todas as NCRF - Normas Contabilísticas e de Relato Financeiro (1 a 28) e restantes instrumentos contabilísticos do Sistema de Normalização Contabilística (SNC) clicar neste [link](http://www.cnc.min-financas.pt/Instrumentos_snc2016.html).
+
 __Rubricas do balanço__:
 
 - **Ativo** (lado esquerdo): registam-se as __aplicações de fundos__ em bens, ou direitos a receber. Inclui nomeadamente:
 
-    - ativos tangiveis (edifícios, equipamentos, etc.);
+    - ativos fixos tangiveis (terrenos, edifícios, prédios, equipamentos, máquinas, veículos, etc.);
     - propriedades de investimento;
-    - ativos intangíveis (marcas e patentes);
-    - inventários;
+    - ativos intangíveis (marcas, patentes, logotipos, nome e insígnia do estabelecimento, licenças, autorizações, alvarás, etc.);
+    - inventários (mercadorias, produtos acabados, matérias-primas, consumíveis, materiais);
     - dívidas de terceiros (vide clientes);
     - valores monetários (dinheiro, depósitos, titulos financeiros).
 
@@ -167,6 +169,8 @@ __Dois mapas de Demonstração de Resultados__
 
 Diferem no essencial quanto à agregação da parte dos gastos.
 
+Diferem igualmente noutra característica: enquanto na __DR por funções__ o custo das vendas se refere logo ao custo das unidades de produto vendidas, na __DR por naturezas__ o custo é a das unidades produzidas no período, e o mesmo é depois deduzido do custo das "novas" unidades em inventário, fabricadas mas não vendidas - Variação nos Inventários da Produção.
+
 <figure markdown>
   <img src="../images/tabela_26.png24" width="600">
   <figcaption>Demonstração de Resultados por Naturezas</figcaption>
@@ -195,14 +199,49 @@ $$ {\text{RL} = \text{RAI} - \text{Imposto sobre o rendimento do período}} $$
 
 >Ver [Exercicio 5](exercicios_1.md#exercicio-5) para exemplificação de Demonstração de Resultados por Funções.
 
->Ver [Exercicio 6](exercicios_1.md#exercicio-6) para exemplificação da diferença entre os dois modelos de Demonstração de Resultados.
 
->Ver [Exercicio 7](exercicios_1.md#exercicio-7) para exemplificação de Demonstração de Resultados.
+>Ver [Exercicio 6](exercicios_1.md#exercicio-6) para exemplificação de Demonstração de Resultados.
 
 
+__Depreciações e amortizações de ativos não-correntes__
+
+Ativos não-correntes que a empresa utiliza na sua atividade operacional:
+
+- Ativos fixos tangíveis
+
+- Ativos intangíveis
+
+Estes ativos estão sujeitos a Amortizações ou Depreciações.
+
+- __Depreciação__: Corresponde à quebra de valor dos bens do __ativo fixo tangível__;
+
+- __Amortização__: Corresponde à quebra de valor dos bens do __ativo intangível__
+
+__Depreciações e amortizações do Exercício__: quebra do valor das propriedades de investimento, dos ativos biológicos não consumíveis e dos ativos fixos tangíveis e intangíveis durante um período contabilístico. São consideradas __um gasto na Demonstração de Resultados__.
+
+__Depreciações e Amortizações Acumuladas__: valores acumulados das depreciações e amortizações à data do Balanço (= soma das depreciações e amortizações das D.R. até essa data). Subtraídas aos valores de aquisição, produção ou reavaliação desses ativos dão origem aos valores dos ativos que aparecem registados no Balanço em cada período.
+
+__Registo contabilistico das amortizações ou depreciações__:
+
+- Gastos de depreciação e de amortização (DRN)
+
+- Outros Gastos e Perdas Operacionais (DRF)
+
+- Depreciações (Amortizações) Acumuladas (B)
+
+Assim, através das depreciações/amortizações:
+
+- Imputamos (a resultados) o custo da utilização do ativo (in)tangível;
+
+- Atualizamos o valor do ativo (in)tangível (que passa a constar do balanço pelo valor líquido, i.e. abatido das amortizações / depreciações).
+
+
+>Ver [Exercicio 7](exercicios_1.md#exercicio-7) para exemplificação de Depreciações e Amortizações.
 
 
 ## Análise financeira: os principais rácios financeiros
+
+__Rácios__ são Indicadores de Gestão que exprimem uma relação entre elementos dos documentos contabilísticos (Balanço, Demonstração de Resultados) e a partir dos quais é possível tirar ilações sobre a situação da empresa (Solidez Financeira e níveis de desempenho económico e financeiro).
 
 #### **Rácios de Rentabilidade**: 
 
