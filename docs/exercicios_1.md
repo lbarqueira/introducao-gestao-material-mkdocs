@@ -152,19 +152,19 @@ __Nota__: As depreciações e amortizações __são um gasto__ que não dá orig
 
 __Rentabilidade do Capital Próprio (RCP)__
 
- $$ \small \begin{aligned}\text{RCP}&=\frac {\text{Resultado Líquido do Período}} {\text{Capital Próprio}}\\ \\ &= \frac {\text{229.510€}} {\text{2.026.253€}} = 11.3\% \end{aligned}$$
+$$\small \begin{aligned}\text{RCP} &= \frac {\text{Resultado Líquido do Período}} {\text{Capital Próprio}} \\ \\ &= \frac {\text{229.510€}} {\text{2.026.253€}} = 11.3\% \end{aligned}$$
 
 > Ou seja, por cada 100€ detidos pelos sócios na empresa, a empresa gerou 11.3€ de lucro.
 
 __Rentabilidade (Operacional) das Vendas__
 
- $$ \small \begin{aligned}\text{ROV}&=\frac {\text{Resultado Operacional}} {\text{Vendas}}\\ \\ &= \frac {\text{408.513€}} {\text{14.367.563€}} = 2.8\% \end{aligned}$$
+$$ \small \begin{aligned}\text{ROV}&=\frac {\text{Resultado Operacional}} {\text{Vendas}}\\ \\ &= \frac {\text{408.513€}} {\text{14.367.563€}} = 2.8\% \end{aligned}$$
 
 __Prazo Médio de Recebimentos (em dias)__
 
- $$ \small \begin{aligned}\text{Prazo Médio de Recebimentos (em dias)}&=\frac {\text{Clientes}} {\text{Vendas}}\times 365 \\ \\ &= \frac {\text{3.575.620€}} {\text{14.367.563€}} \times 365 = 90.8 \end{aligned}$$
+$$ \small \begin{aligned}\text{Prazo Médio de Recebimentos (em dias)}&=\frac {\text{Clientes}} {\text{Vendas}}\times 365 \\ \\ &= \frac {\text{3.575.620€}} {\text{14.367.563€}} \times 365 = 90.8 \end{aligned}$$
 
- _Nota: Em média os clientes pagam à empresa 90.8 dias após a venda dos produtos_
+> Em média os clientes pagam à empresa 90.8 dias após a venda dos produtos.
 
 __Prazo Médio de Pagamentos (em dias)__
 
@@ -179,18 +179,18 @@ $$ \small\text{Prazo Médio de Pagamentos (em dias)}=\frac {\text{2.055.897€}}
 
 __Rotação de Inventário__
 
- $$ \small \begin{aligned}\text{Rotação de Inventário}&=\frac {\text{Custo das Vendas}} {\text{Inventário médio no ano}}\\ \\ &= \frac {\text{6.667.327€}} {\text{1.747.280€}} = 3.8 \end{aligned}$$
+$$ \small \begin{aligned}\text{Rotação de Inventário}&=\frac {\text{Custo das Vendas}} {\text{Inventário médio no ano}}\\ \\ &= \frac {\text{6.667.327€}} {\text{1.747.280€}} = 3.8 \end{aligned}$$
 
 __Solvabilidade Total ou Autonomia Financeira__
 
 
-  $$ \small \begin{aligned}\text{Autonomia Financeira}&=\frac {\text{Capital Próprio}} {\text{Ativo}}\\ \\ &= \frac {\text{2.026.253€}} {\text{8.073.236€}} = 25.1\% \end{aligned}$$
+$$ \small \begin{aligned}\text{Autonomia Financeira}&=\frac {\text{Capital Próprio}} {\text{Ativo}}\\ \\ &= \frac {\text{2.026.253€}} {\text{8.073.236€}} = 25.1\% \end{aligned}$$
 
 > Ou seja, os ativos da empresa são financiados em 25.1% por capitais dos sócios/acionistas.
 
 __Solvabilidade Reduzida__
 
- $$ \small \begin{aligned}\text{Solvabilidade Reduzida}&=\frac {\text{Capital Próprio}} {\text{Passivo}}\\ \\ &= \frac {\text{2.026.253€}} {\text{6.046.983€}} = 33.5\% \end{aligned}$$
+$$ \small \begin{aligned}\text{Solvabilidade Reduzida}&=\frac {\text{Capital Próprio}} {\text{Passivo}}\\ \\ &= \frac {\text{2.026.253€}} {\text{6.046.983€}} = 33.5\% \end{aligned}$$
 
 __Liquidez geral__
 
