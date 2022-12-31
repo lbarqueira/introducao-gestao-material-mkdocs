@@ -245,53 +245,91 @@ __Rácios__ são Indicadores de Gestão que exprimem uma relação entre element
 
 #### **Rácios de Rentabilidade**: 
 
-Indicam a rentabilidade do capital próprio, ativo ou vendas.
+Evidenciam a rentabilidade da empresa em função, por exemplo, do seu capital próprio, do seu ativo ou das vendas.
 
-$$ \small \begin{aligned}\text{Rentabilidade do Capital Próprio}=\frac {\text{Resultado Líquido}} {\text{Capital Próprio}}\end{aligned} $$
+__Rentabilidade do Capital Próprio (RCP)$ ¹$__
+
+$$ \small \begin{aligned}\text{Rentabilidade do Capital Próprio (RCP)}=\frac {\text{Resultado Líquido do Período}} {\text{Capital Próprio}}\end{aligned} $$
+
+$ ¹ $ _Em inglês: ROE (Return on Equity)_.
+
+__Rentabilidade do Ativo (RA)__
+
+$$ \small \begin{aligned}\text{Rentabilidade do Ativo (RA)}=\frac {\text{Resultado Líquido do Período}} {\text{Ativo}}\end{aligned} $$
+
+__Rentabilidade (Operacional) das Vendas (ROV)__
 
 $$ \small \begin{aligned}\text{Rentabilidade das Vendas}=\frac {\text{Resultado Operacional}} {\text{Vendas}}\end{aligned} $$
+
+
+
 
 #### **Rácios de Atividade ou Funcionamento** 
 
 Indicam o grau de utilização dos recursos da empresa.
 
+A liquidez de uma empresa está associada ao que se constuma designar pelo seu __ciclo de caixa__. Se as empresas receberem com uma frequência elevada dos seus clientes e tiverem prazos mais dilatados para pagar as suas dívidas, é natural que enfrentem menos dificuldades de liquidez.
+
 $$ \small\text{Prazo Médio de Recebimentos (em dias)}=\frac {\text{Clientes}} {\text{Vendas}} \times 365 $$
 
 $$ \small\text{Prazo Médio de Pagamentos (em dias)}=\frac {\text{Fornecedores}} {\text{Compras}} \times 365 $$
 
-#### **Rácios de Solvabilidade/Endividamento**
+_Nota: O valor das Compras tem de ser obtido autonomamente, uma vez que não vem na demonstração de resultados nem no balanço._
 
-Indicam a capacidade da empresa de satisfazer os compromissos financeiros de médio e longo prazo.
+$$ \small\text{Rotação de Inventário}=\frac {\text{Custo das Vendas}} {\text{Inventário médio no ano}} $$
+
+
+
+#### **Rácios de Solvabilidade / Endividamento**
+
+Indicam a capacidade da empresa de satisfazer os seus compromissos financeiros de médio e longo prazo.
 
 - **Solvabilidade**: Capacidade da empresa para responder aos seus compromissos a médio e a longo prazo:
 
-$$ \small\text{Solvabilidade Total ou Autonomia Financeira}=\frac {\text{Capital Próprio}} {\text{Capital Ativo}} $$
+$$ \small\text{Solvabilidade Total ou Autonomia Financeira}=\frac {\text{Capital Próprio}} {\text{Ativo}} $$
 
-- Uma boa solvabilidade total corresponde a valores acima de $\frac{1}{3}$
+- Uma __boa solvabilidade total__ corresponde a valores $ >\frac{1}{3}$
 
 $$ \small\text{Solvabilidade Reduzida}=\frac {\text{Capital Próprio}} {\text{Passivo}} $$
 
-- Uma boa solvabilidade reduzida corresponde a valores acima de $\frac{1}{2}$
+- Uma __boa solvabilidade reduzida__ corresponde a valores  $>\frac{1}{2}$
 
 #### **Rácios de Liquidez** 
 
-Indicam a capacidade de a empresa satisfazer os compromissos financeiros de curto prazo.
+Indicam a capacidade de a empresa satisfazer os seus  compromissos financeiros de curto prazo.
 
-- **Liquidez**: Capacidade de a empresa solver os seus compromissos de curto prazo através do fundo de maneio (Ativo corrente  –  Passivo corrente).
+- **Liquidez**: Capacidade da empresa solver os seus compromissos de curto prazo __através do__ Fundo de Maneio.
 
-Podemos avaliar o grau de liquidez da empresa, que é em função de:
+$$ \small \text{Fundo de Maneio} = {\text{Ativo corrente}} - {\text{Passivo corrente}} $$
+
+__Podemos avaliar o grau de liquidez da empresa__, que é função de:
     
 - Política de crédito a clientes (+clientes  ⇝  + risco)
 - Política de inventários (+ inventários produtos  ⇝  + risco)
 - Política de aprovisionamento (+ inventário matérias-primas  ⇝  + risco)
 
-$$ \small\begin{aligned}\text{Liquidez geral}&=\frac {\text{Activo Corrente}} {\text{Passivo Corrente}}\\ \\ &= \frac {\text{Caixa de Depósitos à Ordem + Clientes + Inventários}} {\text{Passivo Corrente}}\end{aligned} $$
+__Liquidez geral__
+
+$$ \small\begin{aligned}\text{Liquidez geral}&=\frac {\text{Activo Corrente}} {\text{Passivo Corrente}}\\ \\ &= \frac {\text{Caixa e Depósitos à Ordem + Clientes + Inventários}} {\text{Passivo Corrente}}\end{aligned} $$
+
+__Liquidez reduzida__
+
+$$ \small\begin{aligned}\text{Liquidez reduzida (acid test)}&=\frac {\text{Activo Corrente - Inventário}} {\text{Passivo Corrente}}\\ \\ &= \frac {\text{Caixa e Depósitos à Ordem + Clientes}} {\text{Passivo Corrente}}\end{aligned} $$
+
+
+>Ver [Exercicio 8](exercicios_1.md#exercicio-8) para exemplificação do cálculo de cada um dos rácios para uma empresa específica.
+
+
+
 
 #### Limitações dos Rácios Financeiros:
 -   Os rácios devem ser comparados com dados de outras empresas com atividade semelhante;
--   Devem ser comparados, dentro da mesma empresa, ao longo do tempo;
+-   Devem ser comparados, para a mesma empresa, ao longo do tempo;
 -   Podem variar em função do país ou práticas contabilísticas;
 -   Atualmente, há cada vez mais consciência de que o lucro não pode ser o objetivo exclusivo das empresas.
 
-## Análise custo-volume-resultado
+
+
+
+## Análise Custo-Volume-Resultado: Modelo do Ponto Crítico
 
