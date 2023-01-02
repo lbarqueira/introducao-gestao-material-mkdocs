@@ -247,11 +247,9 @@ __Rácios__ são Indicadores de Gestão que exprimem uma relação entre element
 
 Evidenciam a rentabilidade da empresa em função, por exemplo, do seu capital próprio, do seu ativo ou das vendas.
 
-__Rentabilidade do Capital Próprio (RCP)$ ¹$__
+__Rentabilidade do Capital Próprio (RCP)__
 
 $$ \small \begin{aligned}\text{Rentabilidade do Capital Próprio (RCP)}=\frac {\text{Resultado Líquido do Período}} {\text{Capital Próprio}}\end{aligned} $$
-
-$ ¹ $ _Em inglês: ROE (Return on Equity)_.
 
 __Rentabilidade do Ativo (RA)__
 
@@ -260,7 +258,6 @@ $$ \small \begin{aligned}\text{Rentabilidade do Ativo (RA)}=\frac {\text{Resulta
 __Rentabilidade (Operacional) das Vendas (ROV)__
 
 $$ \small \begin{aligned}\text{Rentabilidade das Vendas}=\frac {\text{Resultado Operacional}} {\text{Vendas}}\end{aligned} $$
-
 
 
 

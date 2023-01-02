@@ -18,9 +18,10 @@ O livro de referência para a sintese teórica é essencialmente [Gestão – Co
 </figure>
 
 
-
 Principais objetivos a alcançar com a informação disponibilizada neste site:
 
 - Informação téorica/conceitos tipo formulário para consulta simples e eficaz;
 - Exercícios práticos para cimentar a teoria;
 - Facilidade de consulta.
+
+No [Anexo - Referências](referencias.md#Informação) poderão encontrar informação adicional para consolidação dos conceitos apresentados.
