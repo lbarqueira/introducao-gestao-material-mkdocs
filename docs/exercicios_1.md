@@ -149,6 +149,10 @@ __Nota__: As depreciações e amortizações __são um gasto__ que não dá orig
 
 #### Exercicio 8
 
+<figure markdown>
+  <img src="../images/tabela_30.png" width="700">
+  <figcaption>Balanço e DRF</figcaption>
+</figure>
 
 __Rentabilidade do Capital Próprio (RCP)__
 
@@ -194,12 +198,11 @@ $$ \small \begin{aligned}\text{Solvabilidade Reduzida}&=\frac {\text{Capital Pr�
 
 __Liquidez geral__
 
-TODO:
+$$ \small \begin{aligned}\text{Liquidez Geral}&=\frac {\text{Ativo Corrente}} {\text{Passivo Corrente}}\\ \\ &= \frac {\text{6.146.159€}} {\text{4.307.193€}} = 142.7\% \end{aligned}$$
 
 __Liquidez reduzida__
 
-TODO:
-
+$$ \small \begin{aligned}\text{Liquidez Reduzida}&=\frac {\text{Activo Corrente - Inventário}} {\text{Passivo Corrente}}\\ \\ &= \frac {\text{4.398.879€}} {\text{4.307.193€}} = 102.1\% \end{aligned}$$
 
 #### Exercicio 9
 

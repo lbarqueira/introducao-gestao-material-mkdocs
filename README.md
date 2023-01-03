@@ -29,3 +29,4 @@ $ source venv/bin/activate
 ```
 Note:
 Everytime I make a push to GitHub it deploys the site on Netlify. The site at Netlify is connected to the GitHub repository.
+

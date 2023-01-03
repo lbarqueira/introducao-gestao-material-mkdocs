@@ -1,5 +1,7 @@
 ### Correspondência de expressões em inglês
 
+Consultar igualmente [Glossário Bilingue (português ↔ inglês)](https://www.bportugal.pt/glossario-bilingue/a), pelo Banco de Portugal.
+
 | **Português**            | **Inglês**                                    |
 |------------------------|-------------------------------------------------|
 | Ativo                  | Assets                                          |

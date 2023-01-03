@@ -24,4 +24,4 @@ Principais objetivos a alcançar com a informação disponibilizada neste site:
 - Exercícios práticos para cimentar a teoria;
 - Facilidade de consulta.
 
-No [Anexo - Referências](referencias.md#Informação) poderão encontrar informação adicional para consolidação dos conceitos apresentados.
+No Capítulo [Anexo](referencias.md#Informação) poderão encontrar referências a informação adicional (videos, documentação, bibliografia) para consolidação, bem como para complemento dos conceitos apresentados.

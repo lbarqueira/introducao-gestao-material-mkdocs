@@ -285,7 +285,7 @@ Indicam a capacidade da empresa de satisfazer os seus compromissos financeiros d
 
 $$ \small\text{Solvabilidade Total ou Autonomia Financeira}=\frac {\text{Capital Próprio}} {\text{Ativo}} $$
 
-- Uma __boa solvabilidade total__ corresponde a valores $ >\frac{1}{3}$
+- Uma __boa solvabilidade total__ corresponde a valores $>\frac{1}{3}$
 
 $$ \small\text{Solvabilidade Reduzida}=\frac {\text{Capital Próprio}} {\text{Passivo}} $$
 
