@@ -1,5 +1,7 @@
 ### Exercicios respeitantes à informação financeira
 
+&nbsp;
+
 #### Exercicio 1
 
 Exemplo de cálculo do ***património líquido em termos pessoais***. Assim:
@@ -26,7 +28,7 @@ Ou seja, o meu ```Património Líquido```:
 
 $$ {\text{Património Líquido}}={\text{Património Ativo}-\text{Património Passivo}}=250.000\text{€} $$ 
 
-
+&nbsp;
 
 #### Exercicio 2
 
@@ -51,6 +53,7 @@ e) A empresa paga renda de aluguer de escritório no montante de 1.000€.
 
 $$ {\text{Património Líquido (}}={\text{Capital Próprio ou Situação Líquida)}}=54.000\text{€} $$ 
 
+&nbsp;
 
 #### Exercicio 3
 
@@ -69,6 +72,7 @@ Exemplos de operações com aplicação da dupla entrada:
   <figcaption>Aplicação da dupla entrada</figcaption>
 </figure>
 
+&nbsp;
 
 #### Exercicio 4
 
@@ -90,6 +94,8 @@ Posteriormente, no período ou exercício $^{(1)}$ em que o cliente vier a pagar
 
 $^{(1)}$ Usamos alternativamente a período (período de tempo) a designação de exercício contabilístico (p.ex: exercício de 1 janeiro 2010 a 31 dezembro de 2010).
 
+&nbsp;
+
 #### Exercicio 5
 
 Com as operações:
@@ -104,6 +110,8 @@ Com as operações:
   <img src="../images/tabela_28.png24" width="600">
   <figcaption>Demonstração Resultados Por Funções</figcaption>
 </figure>
+
+&nbsp;
 
 #### Exercicio 6
 
@@ -130,6 +138,8 @@ R:
   <figcaption>Balanço e DR Por Funções</figcaption>
 </figure> 
 
+&nbsp;
+
 #### Exercicio 7
 
 __(1)__ A empresa comprou novas instalações por 30.000€, tendo pedido um empréstimo bancário para financiar a compra que terá de pagar de uma só vez ao fim de 10 anos;
@@ -147,6 +157,8 @@ __Nota__: As depreciações e amortizações __são um gasto__ que não dá orig
   <figcaption>Depreciações</figcaption>
 </figure>
 
+&nbsp;
+
 #### Exercicio 8
 
 <figure markdown>
@@ -156,17 +168,17 @@ __Nota__: As depreciações e amortizações __são um gasto__ que não dá orig
 
 __Rentabilidade do Capital Próprio (RCP)__
 
-$$\small \begin{aligned}\text{RCP} &= \frac {\text{Resultado Líquido do Período}} {\text{Capital Próprio}} \\ \\ &= \frac {\text{229.510€}} {\text{2.026.253€}} = 11.3\% \end{aligned}$$
+$$ \small \begin{aligned}\text{RCP} &= \frac {\text{Resultado Líquido do Período}} {\text{Capital Próprio}} \\ \\ &= \frac {\text{229.510€}} {\text{2.026.253€}} = 11.3\% \end{aligned} $$
 
 > Ou seja, por cada 100€ detidos pelos sócios na empresa, a empresa gerou 11.3€ de lucro.
 
 __Rentabilidade (Operacional) das Vendas__
 
-$$ \small \begin{aligned}\text{ROV}&=\frac {\text{Resultado Operacional}} {\text{Vendas}}\\ \\ &= \frac {\text{408.513€}} {\text{14.367.563€}} = 2.8\% \end{aligned}$$
+$$ \small \begin{aligned}\text{ROV}&=\frac {\text{Resultado Operacional}} {\text{Vendas}}\\ \\ &= \frac {\text{408.513€}} {\text{14.367.563€}} = 2.8\% \end{aligned} $$
 
 __Prazo Médio de Recebimentos (em dias)__
 
-$$ \small \begin{aligned}\text{Prazo Médio de Recebimentos (em dias)}&=\frac {\text{Clientes}} {\text{Vendas}}\times 365 \\ \\ &= \frac {\text{3.575.620€}} {\text{14.367.563€}} \times 365 = 90.8 \end{aligned}$$
+$$ \small \begin{aligned}\text{Prazo Médio de Recebimentos (em dias)}&=\frac {\text{Clientes}} {\text{Vendas}}\times 365 \\ \\ &= \frac {\text{3.575.620€}} {\text{14.367.563€}} \times 365 = 90.8 \end{aligned} $$
 
 > Em média os clientes pagam à empresa 90.8 dias após a venda dos produtos.
 
@@ -183,31 +195,92 @@ $$ \small\text{Prazo Médio de Pagamentos (em dias)}=\frac {\text{2.055.897€}}
 
 __Rotação de Inventário__
 
-$$ \small \begin{aligned}\text{Rotação de Inventário}&=\frac {\text{Custo das Vendas}} {\text{Inventário médio no ano}}\\ \\ &= \frac {\text{6.667.327€}} {\text{1.747.280€}} = 3.8 \end{aligned}$$
+$$ \small \begin{aligned}\text{Rotação de Inventário}&=\frac {\text{Custo das Vendas}} {\text{Inventário médio no ano}}\\ \\ &= \frac {\text{6.667.327€}} {\text{1.747.280€}} = 3.8 \end{aligned} $$
 
 __Solvabilidade Total ou Autonomia Financeira__
 
 
-$$ \small \begin{aligned}\text{Autonomia Financeira}&=\frac {\text{Capital Próprio}} {\text{Ativo}}\\ \\ &= \frac {\text{2.026.253€}} {\text{8.073.236€}} = 25.1\% \end{aligned}$$
+$$ \small \begin{aligned}\text{Autonomia Financeira}&=\frac {\text{Capital Próprio}} {\text{Ativo}}\\ \\ &= \frac {\text{2.026.253€}} {\text{8.073.236€}} = 25.1\% \end{aligned} $$
 
 > Ou seja, os ativos da empresa são financiados em 25.1% por capitais dos sócios/acionistas.
 
 __Solvabilidade Reduzida__
 
-$$ \small \begin{aligned}\text{Solvabilidade Reduzida}&=\frac {\text{Capital Próprio}} {\text{Passivo}}\\ \\ &= \frac {\text{2.026.253€}} {\text{6.046.983€}} = 33.5\% \end{aligned}$$
+$$ \small \begin{aligned}\text{Solvabilidade Reduzida}&=\frac {\text{Capital Próprio}} {\text{Passivo}}\\ \\ &= \frac {\text{2.026.253€}} {\text{6.046.983€}} = 33.5\% \end{aligned} $$
 
 __Liquidez geral__
 
-$$ \small \begin{aligned}\text{Liquidez Geral}&=\frac {\text{Ativo Corrente}} {\text{Passivo Corrente}}\\ \\ &= \frac {\text{6.146.159€}} {\text{4.307.193€}} = 142.7\% \end{aligned}$$
+$$ \small \begin{aligned}\text{Liquidez Geral}&=\frac {\text{Ativo Corrente}} {\text{Passivo Corrente}}\\ \\ &= \frac {\text{6.146.159€}} {\text{4.307.193€}} = 142.7\% \end{aligned} $$
 
 __Liquidez reduzida__
 
-$$ \small \begin{aligned}\text{Liquidez Reduzida}&=\frac {\text{Activo Corrente - Inventário}} {\text{Passivo Corrente}}\\ \\ &= \frac {\text{4.398.879€}} {\text{4.307.193€}} = 102.1\% \end{aligned}$$
+$$ \small \begin{aligned}\text{Liquidez Reduzida}&=\frac {\text{Activo Corrente - Inventário}} {\text{Passivo Corrente}}\\ \\ &= \frac {\text{4.398.879€}} {\text{4.307.193€}} = 102.1\% \end{aligned} $$
+
+&nbsp;
 
 #### Exercicio 9
 
+De acordo com o balanço feito à empresa da Rita, do Tomás e do Rui do [Exercicio 6](exercicios_1.md#exercicio-6):
+
+__Qual é o rácio de liquidez reduzida e o rácio de solvabilidade total? Trata-se de uma boa solvabilidade total?__
+
+$$ \small \begin{aligned}\text{Liquidez Reduzida}&=\frac {\text{Activo Corrente - Inventário}} {\text{Passivo Corrente}}\\ \\ &= \frac {\text{63.500€}} {\text{20.000€}} = 317.5\% \end{aligned} $$
+
+$$ \small \begin{aligned}\text{Solvabilidade Total}&=\frac {\text{Capital Próprio}} {\text{Ativo}}\\ \\ &= \frac {\text{33.500€}} {\text{153.500€}} = 21.8\% < \frac {1}{3}\end{aligned} $$
+
+Não se trata de uma boa solvabilidade total uma vez que o seu valor é inferior a $\frac {1}{3}$.
+
+&nbsp;
 
 #### Exercicio 10
 
+O Rodrigo Coimbra é proprietário de uma empresa especializada na produção de colunas de destilação. Em 2020, a empresa do Rodrigo produziu destiladores cujo preço de mercado é 1000€/unidade e cujo custo variável unitário representa 60% deste valor. Para esta produção, os custos fixos foram de 2 000 000€. 
+
+Quantos destiladores precisará ele de vender para ter lucro?
+
+__R__:
+
+- $\text{p = 1000€}$ - Preço de venda unitário;
+
+- $\text{cvu = 600€}$ - Custo variável unitário;
+
+- $\text{CF = 2.000.000€}$ - Custos Fixos Totais;
+
+__$\text{mcu}$ - Margem de contribuição unitária__ $\text{ = p} - \text{cvu}$;
+
+
+$$ \text{Qc} = \frac{\text{CF}}{\text{mcu}} = \frac{\text{Total dos Custos Fixos}}{\text{Margem de contribuição unitária}} = \frac{\text{2.000.000€}}{\text{1000€ - 600€}} = \text{5000 unidades} $$
+
+&nbsp;
 
 #### Exercicio 11
+
+Uma empresa portuguesa pensa dedicar-se à produção de _drones_ para diversão, estimando que o seu custo se situe em termos fixos, por ano, no valor de 150.000€. Por sua vez, cada unidade produzida deverá implicar um custo variável de 240€.
+
+a) Assumindo que será possível vender cada _drone_ por 500€, qual o número de _drones_ correspondentes ao ponto crítico?
+
+b) Noutro sentido, admitindo que a quantidade de 300 unidades é uma boa estimativa do possivel número de _drones_ a vender por ano, qual deverá ser o preço unitário a praticar por forma a que a empresa não tenha prejuizo com este novo negócio?
+
+__R__:
+
+__a)__
+
+- $\text{p = 500€}$ - Preço de venda unitário;
+
+- $\text{cvu = 240€}$ - Custo variável unitário;
+
+- $\text{CF = 150.000€}$ - Custos Fixos Totais;
+
+__$\text{mcu}$ - Margem de contribuição unitária__ $\text{ = p} - \text{cvu}$;
+
+
+$$ \text{Qc} = \frac{\text{CF}}{\text{mcu}} = \frac{\text{Total dos Custos Fixos}}{\text{Margem de contribuição unitária}} = \frac{\text{150.000€}}{\text{500€ - 240€}} \approx  \text{577 drones} $$
+
+__b)__
+
+Fixou-se a quantidade de unidades a vender como um dado (Q), o preço crítico (pc) ou seja, o preço a praticar para se cobrirem os custos operacionais e se atingir o lucro operacional nulo:
+
+- $\text{Q = 300}$ - número de _drones_ a vender
+
+$$ \text{pc} = \frac {\text{CF}}{\text{Q}} + \text{cvu} = \frac {\text{150.000€}} {\text{300}} + \text{240€} = \text{740€} $$
+

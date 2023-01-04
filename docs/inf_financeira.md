@@ -316,7 +316,7 @@ $$ \small\begin{aligned}\text{Liquidez reduzida (acid test)}&=\frac {\text{Activ
 
 >Ver [Exercicio 8](exercicios_1.md#exercicio-8) para exemplificação do cálculo de cada um dos rácios para uma empresa específica.
 
-
+>Ver [Exercicio 9](exercicios_1.md#exercicio-9) para mais um exemplo de cálculo de rácios para uma empresa específica.
 
 
 #### Limitações dos Rácios Financeiros:
@@ -328,5 +328,68 @@ $$ \small\begin{aligned}\text{Liquidez reduzida (acid test)}&=\frac {\text{Activ
 
 
 
-## Análise Custo-Volume-Resultado: Modelo do Ponto Crítico
+## Análise Custo-Volume-Resultado: Modelo do Ponto Crítico (_Break Even_)
 
+Classificação dos custos em fixos ou variáveis, em função da variação da quantidade produzida.
+
+- __Custos fixos__: Gastos em que a empresa incorre independentemente da quantidade produzida (ex: depreciações e amortizações, gastos gerais de estrutura, e rendas de equipamentos ou edifícios).
+
+- __Custos variáveis__: Variam proporcionalmente com a quantidade produzida (ex: custos de matérias-primas, gastos com a mão-de-obra-direta, e os custos indiretos de fabrico variáveis como por exemplo a energia).
+
+__Demonstração dos Resultados por margem de contribuição - Óptica das Contribuição__
+
+Terceira representação da DR que não consta do SNC, mas que é construida como uma ferramenta de apoio à gestão.
+
+<figure markdown>
+  <img src="../images/tabela_31.png" width="600">
+  <figcaption>Demonstração de Resultados por margem de contribuição</figcaption>
+</figure>
+
+__Objetivo__: Determinar a quantidade a vender para atingir, pelo menos, o lucro operacional - $\text{L}$ - igual a _zero_. Esse ponto designa-se por __Ponto Crítico (_Break Even Point_) das Vendas__, podendo ser calculado em __quantidades__ (unidades físicas):
+
+O lucro pode ser matematicamente definido por:
+
+$$ \text{Lucro} = \text{p} \times \text{Q} - \text{CV} -\text{CF} $$
+
+
+$$ \small\begin{aligned}\text{Lucro = 0} &=> {\text{p} \times \text{Q} - \text{CV} -\text{CF} = 0} \\ &=> {\text{p} \times \text{Q} - (\text{cvu} \times \text{Q}) -\text{CF} = 0} \\ &=> {(\text{p} - \text{cvu})\times \text{Q} - \text{CF} = 0} \\ &=> {\text{mcu} \times \text{Q} = \text{CF}} \\ &=> {\text{Qc} = \frac {\text{CF}}{\text{mcu}}} \end{aligned} $$
+
+$\text{Q}$ - Quantidades produzidas e vendidas;
+
+$\text{Qc}$ - Quantidade crítica a partir da qual há lucro;
+
+$\text{p}$ - Preço de venda unitário;
+
+$\text{cvu}$ - Custo variável unitário;
+
+__$\text{mcu}$ - Margem de contribuição unitária__ $\text{ = p} - \text{cvu}$;
+
+$\text{CF}$ - Total dos Custos Fixos;
+
+$\text{CV}$ - Total dos Custos Variáveis.
+
+&nbsp;
+
+__Análise Gráfica do Ponto Crítico de Vendas__
+
+<figure markdown>
+  <img src="../images/tabela_32.png" width="600">
+  <figcaption>Gráfico do Ponto Crítico de Vendas</figcaption>
+</figure>
+
+&nbsp;
+
+__O Ponto Crítico de Vendas__
+
+__A)__ em Quantidades (quantidade crítica) - __Qc__, ou seja, quantidade crítica a partir da qual há lucro:
+
+$$ {\text{Qc} = \frac {\text{CF}}{\text{mcu}} = \frac {\text{Total dos Custos Fixos}}{\text{Margem de contribuição unitária}}} $$
+
+
+__B)__ em Valor (receita crítica) - __Rc__, ou seja, receita crítica a partir da qual há lucro:
+
+$$ \text{Rc} = \text{p} \times \text{Qc} = \frac {\text{p} \times \text{CF}}{\text{mcu}} = \frac {\text{CF}} {\text{mcu}\%} $$
+
+>Ver [Exercicio 10](exercicios_1.md#exercicio-10) para exemplificação do cálculo do ponto crítico de vendas, em unidades.
+
+>Ver [Exercicio 11](exercicios_1.md#exercicio-11) para exemplificação do cálculo do ponto crítico de vendas, em unidades e valor.
