@@ -1,8 +1,8 @@
-### Exercicios respeitantes à informação financeira
+### Exercícios respeitantes à informação financeira
 
 &nbsp;
 
-#### Exercicio 1
+#### Exercício 1
 
 Exemplo de cálculo do ***património líquido em termos pessoais***. Assim:
 
@@ -30,7 +30,7 @@ $$ {\text{Património Líquido}}={\text{Património Ativo}-\text{Património Pas
 
 &nbsp;
 
-#### Exercicio 2
+#### Exercício 2
 
 Calcular o ***património líquido*** de uma nova empresa com as seguintes ocorrências / transações:
 
@@ -55,7 +55,7 @@ $$ {\text{Património Líquido (}}={\text{Capital Próprio ou Situação Líquid
 
 &nbsp;
 
-#### Exercicio 3
+#### Exercício 3
 
 Exemplos de operações com aplicação da dupla entrada:
 
@@ -74,7 +74,7 @@ Exemplos de operações com aplicação da dupla entrada:
 
 &nbsp;
 
-#### Exercicio 4
+#### Exercício 4
 
 <u>Nota: A Demonstração de Resultados não se orienta pelo tempo da Demonstração de Fluxos de Caixa, mas pelo __tempo económico__, </u>
 
@@ -96,7 +96,7 @@ $^{(1)}$ Usamos alternativamente a período (período de tempo) a designação d
 
 &nbsp;
 
-#### Exercicio 5
+#### Exercício 5
 
 Com as operações:
 
@@ -113,7 +113,7 @@ Com as operações:
 
 &nbsp;
 
-#### Exercicio 6
+#### Exercício 6
 
 Em __janeiro de 2020__, a Rita, o Tomás e o Rui, após terminarem o curso de Eng. Eletrotécnica, criaram e iniciaram a atividade de uma empresa comercial de produtos de informática. Nesse mês ocorreram os seguintes factos:
 
@@ -140,7 +140,7 @@ R:
 
 &nbsp;
 
-#### Exercicio 7
+#### Exercício 7
 
 __(1)__ A empresa comprou novas instalações por 30.000€, tendo pedido um empréstimo bancário para financiar a compra que terá de pagar de uma só vez ao fim de 10 anos;
 
@@ -159,7 +159,7 @@ __Nota__: As depreciações e amortizações __são um gasto__ que não dá orig
 
 &nbsp;
 
-#### Exercicio 8
+#### Exercício 8
 
 <figure markdown>
   <img src="../images/tabela_30.png" width="700">
@@ -218,7 +218,7 @@ $$ \small \begin{aligned}\text{Liquidez Reduzida}&=\frac {\text{Activo Corrente 
 
 &nbsp;
 
-#### Exercicio 9
+#### Exercício 9
 
 De acordo com o balanço feito à empresa da Rita, do Tomás e do Rui do [Exercicio 6](exercicios_1.md#exercicio-6):
 
@@ -232,7 +232,7 @@ Não se trata de uma boa solvabilidade total uma vez que o seu valor é inferior
 
 &nbsp;
 
-#### Exercicio 10
+#### Exercício 10
 
 O Rodrigo Coimbra é proprietário de uma empresa especializada na produção de colunas de destilação. Em 2020, a empresa do Rodrigo produziu destiladores cujo preço de mercado é 1000€/unidade e cujo custo variável unitário representa 60% deste valor. Para esta produção, os custos fixos foram de 2 000 000€. 
 
@@ -253,7 +253,7 @@ $$ \text{Qc} = \frac{\text{CF}}{\text{mcu}} = \frac{\text{Total dos Custos Fixos
 
 &nbsp;
 
-#### Exercicio 11
+#### Exercício 11
 
 Uma empresa portuguesa pensa dedicar-se à produção de _drones_ para diversão, estimando que o seu custo se situe em termos fixos, por ano, no valor de 150.000€. Por sua vez, cada unidade produzida deverá implicar um custo variável de 240€.
 

@@ -20,7 +20,60 @@ Idealmente, estaremos interessados em investir em projetos em que a soma dos $\t
 
 ## Capitalização e atualização. Juros simples e compostos
 
+__Suponha que tem 1.000€ hoje e pretende depositá-los no banco. O que vai acontecer?__
 
+Ao depositar os 1.000€ no banco, estes ficam a render a uma dada _taxa de juro (anual)_.
+
+Ao fim de 1 ano, há duas hipóteses:
+
+- __Levantar o juro__ ficando apenas o capital inicial $\rightarrow$ deixar nessa conta só o montante inicial, levantando os juros todos os anos (__regime juros simples__ - os juros não acumulam ao capital);
+
+- __Acumular o juro__ ao capital $\rightarrow$ depositá-los numa conta a prazo em que os juros vencidos ficam a acumular nessa conta gerando mais juros (__regime juros compostos__ - esquema de capitalização).
+
+Assim:
+
+__Capital ou depósito inicial = 1.000 €__;
+
+__r =  taxa de juro (anual) = 5%__;
+
+>_Nota: Fluxo < 0 $\leftrightarrow$ pagamento; Fluxo > 0 $\leftrightarrow$ recebimento_
+
+__Juros Simples__
+
+<figure markdown>
+  <img src="../images/tabela_33.png" width="600">
+  <figcaption>Juros Simples</figcaption>
+</figure>
+
+$$ C_n = rC_0​+C_0​=(1+r)C_0​ $$
+
+__Juros Compostos $\leftrightarrow$ Neste caso há capitalização__
+
+<figure markdown>
+  <img src="../images/tabela_34.png" width="600">
+  <figcaption>Juros Compostos</figcaption>
+</figure>
+
+$$ C_n = C_0(1 + r)^n $$
+
+Em que $n$ é o número de anos.
+
+O __processo de capitalização__ permite por sua vez chegar, de forma inversa, à noção de __atualização__, em que se faz o cálculo do valor atual ($VA$) ou presente de dinheiro a receber no futuro, sendo a respetiva taxa designada por __Taxa de Atualização__.
+
+$$ VA = \frac{C_n}{(1 + r)^n} $$
+
+Em que  $C_n$  é o valor a receber daqui a  $n$  anos e  $r$  a taxa de juros.
+
+__Capitalização versus Atualização__
+
+<figure markdown>
+  <img src="../images/tabela_35.png" width="600">
+  <figcaption>Capitalização versus Atualização</figcaption>
+</figure>
+
+>Ver [Exercício 1](exercicios_2.md#exercício-1) para exemplo de cálculo de juros em regime de juro simples.
+
+>Ver [Exercício 2](exercicios_2.md#exercício-2) para exemplo relacionado com o regime de juro composto.
 
 ## Taxas nominais (a preços correntes) e reais (a preços constantes)
 
