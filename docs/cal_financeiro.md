@@ -45,6 +45,8 @@ __Juros Simples__
   <figcaption>Juros Simples</figcaption>
 </figure>
 
+
+
 $$ C_n = rC_0​+C_0​=(1+r)C_0​ $$
 
 __Juros Compostos $\leftrightarrow$ Neste caso há capitalização__
@@ -53,6 +55,8 @@ __Juros Compostos $\leftrightarrow$ Neste caso há capitalização__
   <img src="../images/tabela_34.png" width="600">
   <figcaption>Juros Compostos</figcaption>
 </figure>
+
+
 
 $$ C_n = C_0(1 + r)^n $$
 
@@ -66,11 +70,11 @@ Em que $C_n$ é o valor a receber daqui a $n$  anos e $r$ a taxa de juros.
 
 Por exemplo, o __valor atual__ ($VA$) de 1.100€ recebidos 1 ano depois, supondo uma taxa de juro para aplicações semelhantes de 10% ao ano, é igual a:
 
-$$ VA = \frac{1.100€}{(1 + 0.1)^1} = 1.000€ $$
+$$ VA = \frac{1.100}{(1 + 0.1)^1} = \text{1.000€} $$
 
 O $VA$ de 1.210€ a receber ao fim de 2 anos é também igual a:
 
-$$ VA = \frac{1.210€}{(1 + 0.1)^2} = 1.000€ $$
+$$ VA = \frac{1.210}{(1 + 0.1)^2} = \text{1.000€} $$
 
 Notar que estas fórmulas pressupõem que a taxa de juro usada como taxa de atualização se mantém ao longo do tempo.
 
@@ -81,11 +85,13 @@ __Capitalização versus Atualização__
   <figcaption>Capitalização versus Atualização</figcaption>
 </figure>
 
->Ver [Exercício 1](exercicios_2.md#exercício-1) para exemplo de cálculo de juros em regime de juro simples.
+>Ver [Exercício 1](exercicios_2.md#exercicio-1) para exemplo de cálculo de juros em regime de juro simples.
 
->Ver [Exercício 2](exercicios_2.md#exercício-2) para exemplo relacionado com o regime de juro composto.
+>Ver [Exercício 2](exercicios_2.md#exercicio-2) para exemplo relacionado com o regime de juro composto.
 
->Ver [Exercício 3](exercicios_2.md#exercício-3) para exemplo relacionado com o regime de juro composto.
+>Ver [Exercício 3](exercicios_2.md#exercicio-3) para exemplo relacionado com o regime de juro composto.
+
+
 
 ## Taxas nominais (a preços correntes) e reais (a preços constantes)
 
@@ -99,3 +105,17 @@ __Capitalização versus Atualização__
 
 
 
+## Sumário
+
+!!! Summary "Sumário"
+    Juros simples (os juros não acumulam ao capital)
+    
+    $$ \large C_n = rC_0​+C_0​=(1+r)C_0​ $$
+
+    Juros Compostos - Capitalização: Valor no ano $n$ de um capital aplicado no ano $0$
+
+    $$ \large C_n = C_0(1 + r)^n $$
+
+    Atualização (ou desconto): Valor Atual (no ano $0$) de um capital gerado no ano $n$
+
+    $$ \large VA = \frac{C_n}{(1 + r)^n} $$

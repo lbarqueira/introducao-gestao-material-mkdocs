@@ -1,6 +1,3 @@
-### Exercícios respeitantes ao cálculo financeiro
-
-&nbsp;
 
 #### Exercício 1
 
@@ -26,13 +23,18 @@ $$ Total = \text{20.000€} \times \text{5} \times \text{(0.045/12)} = \text{375
 
 #### Exercício 2
 
-Um capital de 80.000€ aplicado em regime de juro composto à taxa anual efetiva de 4% produziu, num certo prazo t, um valor acumulado de 97.333€. Calcule o prazo de aplicação.
+Um capital de 80.000€ aplicado em regime de juro composto à taxa anual de 4% produziu, num certo prazo t, um valor acumulado de 97.333€. Calcule o prazo de aplicação.
 
-TODO:
+__R__:
+
+$$ C_t = C_0(1 + r)^t $$
+
+$$ 97.333 = 80.000(1 + 0.04)^t $$
+
+$$ t = 
 
 #### Exercício 3
 
-Um capital aplicado à taxa anual de 2% em regime de juros compostos gerou ao fim de quatro anos o valor
-acumulado de 108 243,216€. Qual o valor do capital inicialmente aplicado?
+Um capital aplicado à taxa anual de 2% em regime de juros compostos gerou ao fim de quatro anos o valor acumulado de 108.243,216€. Qual o valor do capital inicialmente aplicado?
 
 TODO:

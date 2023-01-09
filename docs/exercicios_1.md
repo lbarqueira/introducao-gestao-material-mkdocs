@@ -1,6 +1,3 @@
-### Exercícios respeitantes à informação financeira
-
-&nbsp;
 
 #### Exercício 1
 
