@@ -32,3 +32,7 @@ TODO:
 
 #### Exercício 3
 
+Um capital aplicado à taxa anual de 2% em regime de juros compostos gerou ao fim de quatro anos o valor
+acumulado de 108 243,216€. Qual o valor do capital inicialmente aplicado?
+
+TODO:

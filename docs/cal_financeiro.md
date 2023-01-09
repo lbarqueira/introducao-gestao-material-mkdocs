@@ -75,6 +75,8 @@ __Capitalização versus Atualização__
 
 >Ver [Exercício 2](exercicios_2.md#exercício-2) para exemplo relacionado com o regime de juro composto.
 
+>Ver [Exercício 3](exercicios_2.md#exercício-3) para exemplo relacionado com o regime de juro composto.
+
 ## Taxas nominais (a preços correntes) e reais (a preços constantes)
 
 
