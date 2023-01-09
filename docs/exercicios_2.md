@@ -29,12 +29,35 @@ __R__:
 
 $$ C_t = C_0(1 + r)^t $$
 
+$$ t = \log_{1+r}{(\frac{C_t}{C_0})} = \frac{\log{(\frac{C_t}{C_0})}}{\log{(1+r)}} $$
+
 $$ 97.333 = 80.000(1 + 0.04)^t $$
 
-$$ t = 
+$$ t = \frac{\log{(\frac{97.333}{80.000})}}{\log{(1+0.04)}} = 5.0002 $$
+
+Ou seja, o prazo de aplicação foi de 5 anos.
+
+&nbsp;
 
 #### Exercício 3
 
 Um capital aplicado à taxa anual de 2% em regime de juros compostos gerou ao fim de quatro anos o valor acumulado de 108.243,216€. Qual o valor do capital inicialmente aplicado?
 
-TODO:
+__R__:
+
+$$ VA = \frac{C_n}{(1 + r)^n} $$
+
+$$ VA = \frac{108.243,216}{(1 + 0,02)^4} = \text{100.000€} $$
+
+O valor do capital inicialmente aplicado é 100.000€.
+
+&nbsp;
+
+#### Exercício 4
+
+
+#### Exercício 5
+
+
+#### Exercício 6
+

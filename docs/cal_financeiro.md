@@ -97,6 +97,7 @@ __Capitalização versus Atualização__
 
 
 
+
 ## Taxa Anual Efetiva (TAE) e Taxa Anual Nominal (TAN)
 
 
