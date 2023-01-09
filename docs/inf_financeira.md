@@ -20,7 +20,7 @@
 
 ***1) Contabilidade pessoal*** 
 
->Ver [Exercicio 1](exercicios_1.md#exercicio-1) para exemplo de cáculo do património líquido em termos pessoais.
+>Ver [Exercício 1](exercicios_1.md#exercício-1) para exemplo de cáculo do património líquido em termos pessoais.
 
 <figure markdown>
   <img src="../images/patrimonio_liquido_21.png24" width="500">
@@ -29,7 +29,7 @@
 
 ***2) Contabilidade Empresarial***
 
->Ver [Exercicio 2](exercicios_1.md#exercicio-2) para exemplo de cáculo do património líquido de uma empresa.
+>Ver [Exercício 2](exercicios_1.md#exercício-2) para exemplo de cáculo do património líquido de uma empresa.
 
 Adaptamos a seguinte designação à contabilidade empresarial:
 
@@ -105,7 +105,7 @@ __A contabilização das transações__
 
 Cada ocorrência (ou transação) para além de obedecer à equação fundamental da contabilidade, dá origem a, pelo menos, duas alterações (ou registos) do mesmo sinal em lados opostos do __balanço__, ou duas alterações de sinal contrário se no mesmo lado. Esta técnica é conhecida por princípio da __dupla entrada__ ou __Método das Partidas Dobradas__.
 
->Ver [Exercicio 2](exercicios_1.md#exercicio-2) para exemplificação do princípio da dupla entrada (ou Método das Partidas Dobradas).
+>Ver [Exercício 2](exercicios_1.md#exercício-2) para exemplificação do princípio da dupla entrada (ou Método das Partidas Dobradas).
 
 __Notas:__
 
@@ -117,7 +117,7 @@ __Notas:__
     - Alterações em 2 elementos do Capital Próprio (Uma terá sinal $+$ a outra terá sinal $-$ );
     - Alterações num elemento do Capital Próprio em contrapartida de um elemento do Passivo (Uma terá sinal $+$ a outra terá sinal $-$ ).
   
->Ver [Exercicio 3](exercicios_1.md#exercicio-3) para exemplificação de operações com aplicação da dupla entrada.
+>Ver [Exercício 3](exercicios_1.md#exercício-3) para exemplificação de operações com aplicação da dupla entrada.
 
 
 
@@ -158,7 +158,7 @@ A Demonstração de Resultados também não se orienta pelo tempo da Demonstraç
 
 <u>“Os rendimentos e gastos são reconhecidos quando obtidos ou incorridos, independentemente do seu recebimento ou pagamento, devendo incluir-se nas demonstrações financeiras dos períodos a que respeitam.”</u>
 
->Ver [Exercicio 4](exercicios_1.md#exercicio-4) para exemplificação de __tempo económico__.
+>Ver [Exercício 4](exercicios_1.md#exercício-4) para exemplificação de __tempo económico__.
 
 <figure markdown>
   <img src="../images/tabela_25.png24" width="600">
@@ -197,10 +197,10 @@ $$ {\text{RAI} = \text{RO} - \text{Gastos de Financiamento líquidos}} $$
 $$ {\text{RL} = \text{RAI} - \text{Imposto sobre o rendimento do período}} $$
 
 
->Ver [Exercicio 5](exercicios_1.md#exercicio-5) para exemplificação de Demonstração de Resultados por Funções.
+>Ver [Exercício 5](exercicios_1.md#exercício-5) para exemplificação de Demonstração de Resultados por Funções.
 
 
->Ver [Exercicio 6](exercicios_1.md#exercicio-6) para exemplificação de Demonstração de Resultados.
+>Ver [Exercício 6](exercicios_1.md#exercício-6) para exemplificação de Demonstração de Resultados.
 
 
 __Depreciações e amortizações de ativos não-correntes__
@@ -236,7 +236,7 @@ Assim, através das depreciações/amortizações:
 - Atualizamos o valor do ativo (in)tangível (que passa a constar do balanço pelo valor líquido, i.e. abatido das amortizações / depreciações).
 
 
->Ver [Exercicio 7](exercicios_1.md#exercicio-7) para exemplificação de Depreciações e Amortizações.
+>Ver [Exercício 7](exercicios_1.md#exercício-7) para exemplificação de Depreciações e Amortizações.
 
 
 ## Análise financeira: os principais rácios financeiros
@@ -314,9 +314,9 @@ __Liquidez reduzida__
 $$ \small\begin{aligned}\text{Liquidez reduzida (acid test)}&=\frac {\text{Activo Corrente - Inventário}} {\text{Passivo Corrente}}\\ \\ &= \frac {\text{Caixa e Depósitos à Ordem + Clientes}} {\text{Passivo Corrente}}\end{aligned} $$
 
 
->Ver [Exercicio 8](exercicios_1.md#exercicio-8) para exemplificação do cálculo de cada um dos rácios para uma empresa específica.
+>Ver [Exercício 8](exercicios_1.md#exercício-8) para exemplificação do cálculo de cada um dos rácios para uma empresa específica.
 
->Ver [Exercicio 9](exercicios_1.md#exercicio-9) para mais um exemplo de cálculo de rácios para uma empresa específica.
+>Ver [Exercício 9](exercicios_1.md#exercício-9) para mais um exemplo de cálculo de rácios para uma empresa específica.
 
 
 #### Limitações dos Rácios Financeiros:
@@ -390,6 +390,6 @@ __B)__ em Valor (receita crítica) - __Rc__, ou seja, receita crítica a partir 
 
 $$ \text{Rc} = \text{p} \times \text{Qc} = \frac {\text{p} \times \text{CF}}{\text{mcu}} = \frac {\text{CF}} {\text{mcu}\%} $$
 
->Ver [Exercicio 10](exercicios_1.md#exercicio-10) para exemplificação do cálculo do ponto crítico de vendas, em unidades.
+>Ver [Exercício 10](exercicios_1.md#exercício-10) para exemplificação do cálculo do ponto crítico de vendas, em unidades.
 
->Ver [Exercicio 11](exercicios_1.md#exercicio-11) para exemplificação do cálculo do ponto crítico de vendas, em unidades e valor.
+>Ver [Exercício 11](exercicios_1.md#exercício-11) para exemplificação do cálculo do ponto crítico de vendas, em unidades e valor.

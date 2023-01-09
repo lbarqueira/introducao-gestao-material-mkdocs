@@ -12,7 +12,7 @@ $$ -\text{ R}-\text{R}-\text{R}+\text{B}+\text{B}+\text{B } ... +\text{B} $$
 Para essa avaliação põe-se a questão de saber como obter esses recursos, ou seja, como financiar o projecto, através de capital próprio ou alheio, e de saber como prever os benefícios e custos futuros.
 
 
-## O valor temporal do dinheiro e os juros
+## O valor temporal do dinheiro
 
 Concentrando-nos num domínio puramente financeiro, os recursos ($\text{R}$) e os benefícios ($\text{B}$) representam dinheiro, fluxos financeiros negativos ou positivos, designados em inglês por _cash flows_ (negativos, representados por $\text{CF}-$, ou $\text{C}-$; positivos representados por $\text{CF}+$, ou $\text{C}+$).
 
@@ -20,9 +20,9 @@ Idealmente, estaremos interessados em investir em projetos em que a soma dos $\t
 
 ## Capitalização e atualização. Juros simples e compostos
 
-__Suponha que tem 1.000€ hoje e pretende depositá-los no banco. O que vai acontecer?__
+__Suponha que tem 1.000€ hoje, no ano $0$, e pretende depositá-los no banco. O que vai acontecer?__
 
-Ao depositar os 1.000€ no banco, estes ficam a render a uma dada _taxa de juro (anual)_.
+Ao depositar os 1.000€ no banco, estes ficam a render a uma dada _taxa de juro anual_.
 
 Ao fim de 1 ano, há duas hipóteses:
 
@@ -34,7 +34,7 @@ Assim:
 
 __Capital ou depósito inicial = 1.000 €__;
 
-__r =  taxa de juro (anual) = 5%__;
+__r =  taxa de juro anual = 5%__;
 
 >_Nota: Fluxo < 0 $\leftrightarrow$ pagamento; Fluxo > 0 $\leftrightarrow$ recebimento_
 
@@ -58,11 +58,21 @@ $$ C_n = C_0(1 + r)^n $$
 
 Em que $n$ é o número de anos.
 
-O __processo de capitalização__ permite por sua vez chegar, de forma inversa, à noção de __atualização__, em que se faz o cálculo do valor atual ($VA$) ou presente de dinheiro a receber no futuro, sendo a respetiva taxa designada por __Taxa de Atualização__.
+O __processo de capitalização__ permite por sua vez chegar, de forma inversa, à noção de __atualização__, em que se faz o cálculo do valor atual ($VA$) ou presente de dinheiro a receber no futuro, sendo a respetiva taxa designada por __Taxa de Atualização__ ($r$).
 
 $$ VA = \frac{C_n}{(1 + r)^n} $$
 
-Em que  $C_n$  é o valor a receber daqui a  $n$  anos e  $r$  a taxa de juros.
+Em que $C_n$ é o valor a receber daqui a $n$  anos e $r$ a taxa de juros.
+
+Por exemplo, o __valor atual__ ($VA$) de 1.100€ recebidos 1 ano depois, supondo uma taxa de juro para aplicações semelhantes de 10% ao ano, é igual a:
+
+$$ VA = \frac{1.100€}{(1 + 0.1)^1} = 1.000€ $$
+
+O $VA$ de 1.210€ a receber ao fim de 2 anos é também igual a:
+
+$$ VA = \frac{1.210€}{(1 + 0.1)^2} = 1.000€ $$
+
+Notar que estas fórmulas pressupõem que a taxa de juro usada como taxa de atualização se mantém ao longo do tempo.
 
 __Capitalização versus Atualização__
 
