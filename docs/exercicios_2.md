@@ -8,19 +8,21 @@ Calcule os juros vencidos por um capital de 20.000€ durante o período de 5 me
 
 __R__:
 
-Juro vencido ao final do mês 1: 20.000€ x 0,045/12 = 75€
+Juro vencido ao final do 1º mês: 20.000€ x 0,045/12 = 75€
 
-Juro vencido ao final do mês 2: 75€
+Juro vencido ao final do 2º mês: 75€
 
-Juro vencido ao final do mês 3: 75€
+Juro vencido ao final do 3º mês: 75€
 
-Juro vencido ao final do mês 4: 75€
+Juro vencido ao final do 4º mês: 75€
 
-Juro vencido ao final do mês 5: 75€
+Juro vencido ao final do 5º mês: 75€
 
-$$ \color{red} Total = 75€ \times 5 = 375€ $$
+$$ Total = \text{75€} \times \text{5} = \text{375€} $$
 
+$$ Total = \text{20.000€} \times \text{5} \times \text{(0.045/12)} = \text{375€} $$
 
+&nbsp;
 
 #### Exercício 2
 
