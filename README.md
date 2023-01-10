@@ -15,6 +15,8 @@ Introdução à Gestão - Formulário e Casos Práticos
 
 [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
+[Markdown Syntax and MkDocs](https://docs.civicrm.org/dev/en/latest/documentation/markdown/)
+
 [PNG to PNG24 converter](https://imageconvert.org/png-to-png24)
 
 ```

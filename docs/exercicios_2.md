@@ -55,6 +55,12 @@ O valor do capital inicialmente aplicado é 100.000€.
 
 #### Exercício 4
 
+Um empréstimo bancário paga juros à taxa de 3% ao trimestre, qual é a taxa de juro anual $r_a$ equivalente?
+
+__R__:
+
+
+
 
 #### Exercício 5
 
