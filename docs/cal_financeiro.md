@@ -135,14 +135,9 @@ $$ \small \text{1 + taxa nominal} = \text{(1 + taxa real)} \times \text{(1 + tax
 
 $$  r_r = \frac{1 + r_n}{1 + i} - 1 \approx r_n - i $$
 
+>Ver [Exercício 4](exercicios_2.md#exercicio-4) para exemplo de cálculo da taxa de juro **real $(r_r)$**, uma vez dada a taxa de juro **nominal $(r_n)$**.
 
-Exemplo: Se a taxa de juro **nominal $(r_n)$** = 2% e a taxa de inflação $(i)$ for de 1.5%, qual será a taxa de juro **real $(r_r)$**?
-
-$$ \small \text{1 + 0,02} = \text{(1 + taxa real)} \times \text{(1 + 0,015)} $$
-
-$$  r_r = \frac{1 + r_n}{1 + i} - 1 = \frac{1 + 0,02}{1 + 0,015} - 1 = 0,492\%$$
-
-$$  r_r \approx r_n - i = 2\% - 1,5\% = 0,5\% $$
+>Ver [Exercício 5](exercicios_2.md#exercicio-5) para exemplo de cálculo da taxa de juro **nominal $(r_n)$**, uma vez dada a taxa de juro **real $(r_r)$**.
 
 
 ## Períodos inferiores a um ano: Taxas Anuais Nominais (TAN) e Anuais Efetivas (TAE)
@@ -169,19 +164,20 @@ com:
 
 A **taxa $r_a$** é a chamada **taxa anual efetiva** (**TAE**) equivalente à taxa $r_k$.
 
->Ver [Exercício 4](exercicios_2.md#exercicio-4) para exemplo relacionado com o cálculo da taxa de juro anual $r_a$ equivalente.
+>Ver [Exercício 6](exercicios_2.md#exercicio-6) para exemplo relacionado com o cálculo da taxa de juro anual $r_a$ equivalente.
 
-Reportando ao [Exercício 4](exercicios_2.md#exercicio-4), $r_a = 12,55\%$ é a taxa anual efetiva (**TAE**) equivalente à taxa trimestral $r_{4}$ de $3\%$.  
+Reportando ao [Exercício 6](exercicios_2.md#exercicio-6), $r_a = 12,55\%$ é a taxa anual efetiva (**TAE**) equivalente à taxa trimestral $r_{4}$ de $3\%$.  
 
-No entanto, na **banca portuguesa** usa-se também a designação **nominal** noutro contexto, para significar que os juros de pagamentos ou recebimentos infra-anuais são calculados **proporcionalmente** à taxa anual nominal. Por exemplo, a **taxa mensal** correspondente à taxa anual nominal (**TAN**) de 12% é: $r_m = \frac{12\%}{12} = 1\%$.
+No entanto, na **banca portuguesa** utiliza-se também a designação **nominal** noutro contexto, para significar que os juros de pagamentos ou recebimentos infra-anuais são calculados **proporcionalmente** à taxa anual nominal. Por exemplo, a **taxa mensal** correspondente à taxa anual nominal (**TAN**) de 12% é: $r_m = \frac{12\%}{12} = 1\%$.
 
->Ver [Exercício 5](exercicios_2.md#exercicio-5) para outro exemplo relacionado com os conceitos de Taxa Anual Nominal (**TAN**) e Taxa Anual Efetiva (**TAE**).
+>Ver [Exercício 7](exercicios_2.md#exercicio-7) para outro exemplo relacionado com os conceitos de Taxa Anual Nominal (**TAN**) e Taxa Anual Efetiva (**TAE**).
 
 
->Ver [Exercício 6](exercicios_2.md#exercicio-6) para consolidação dos conceitos anteriores.
+>Ver [Exercício 8](exercicios_2.md#exercicio-8) para consolidação dos conceitos anteriores. NOTA: POR EFETUAR.
 
 
 ## Anuidades e perpetuidades
+
 
 
 
