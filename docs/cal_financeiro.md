@@ -178,6 +178,48 @@ No entanto, na **banca portuguesa** utiliza-se também a designação **nominal*
 
 ## Anuidades e perpetuidades
 
+**Numa situação em que se concede / obtém um _empréstimo_ num período** e temos Rendas (+) ou Pagamentos (-) em prestações constantes a iniciar no período seguinte, temos uma chamada **Anuidade**, durante **$n$ períodos** ($n$ é o número de anos, trimestres, meses,...) com **taxa de atualização $r$** ($r$ pode ser taxa de atualização anual, trimestral, mensal,...).
+
+<figure markdown>
+  <img src="../images/tabela_37.png" width="600">
+  <figcaption>Representação genérica de uma anuidade </figcaption>
+</figure>
+
+A última linha da tabela representa corretamente os _cash flows_ $A$ **devidamente atualizados a uma taxa de atualização** $r$, uma vez que não podemos ignorar o fator tempo.
+
+__Como se atualizam as rendas ou pagamentos?__
+
+$$ \text{Valor Atual (VA)} = \sum_{t=1..n} \frac{A_t}{(1 + r)^t} $$
+
+Trata-se de uma série em progressão geométrica com razão $ \frac{1}{1 + r} $ que pode ser escrita como:
+
+$$ VA = A \frac{(1 + r)^n - 1}{(1 + r)^n \times r} = A f(r,n) $$
+
+em que $f(r,n)$ é o fator de anuidade e n é a perpetuidade.
+
+Quanto $n = \infty$ estamos perante o valor atual de uma perpetuidade:
+
+$$ VA = A \times f(r,\infty) = A \times \frac{1}{r} $$
+
+!!! Note 
+    É este **Valor Atual** ($VA$) assim encontrado que deverá ser igual ao preço $P$ do nosso bem (vêr tabela anterior), ou ao valor do empréstimo contraido.
+
+
+**Caso haja antecipação dos pagamentos ou o seu adiamento**
+
+As fórmulas terão de ser **modificadas**:
+
+- caso haja **antecipação de 1 período**: multiplicar por $\frac{1}{(1 + r)}$;
+
+- caso haja **diferimento/adiamento de 1 período**: multiplicar por $(1 + r)$;
+
+- caso haja **diferimento/adiamento de $n$ períodos**: multiplicar por $(1 + r)^n$;
+
+
+**Caso de rendas crescentes**
+
+Os casos anteriores excluem os casos de **rendas crescentes**. Tendo em conta rendas crescentes a uma taxa $g < r$, temos a anuidade:
+
 
 
 

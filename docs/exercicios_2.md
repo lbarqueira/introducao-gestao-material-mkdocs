@@ -104,7 +104,7 @@ Assim, se o empréstimo for de $\text{1.000€}$, pagar $r_4=3\%$ ao trimestre, 
 
 #### Exercício 7
 
-Na sequência do [Exercício 4](exercicios_2.md#exercicio-4), mas agora com juros de $10\%$ vencidos ao **semestre**.
+Na sequência do [Exercício 6](exercicios_2.md#exercicio-6), mas agora com juros de $10\%$ vencidos ao **semestre**.
 
 __R__:
 
