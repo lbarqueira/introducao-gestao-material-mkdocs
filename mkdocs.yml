@@ -9,7 +9,11 @@ nav:
   - Cálculo Financeiro:
       - Cálculo Financeiro: cal_financeiro.md
       - Exercícios: exercicios_2.md
+  - Projetos de investimento:
+      - Análise da Rentabilidade: anal_rentabilidade.md
+      - Exercícios: exercicios_3.md
   - Anexos:
+      - Formulário: formulario.md
       - English expression matching: ingles.md
       - Informação complementar: referencias.md
 

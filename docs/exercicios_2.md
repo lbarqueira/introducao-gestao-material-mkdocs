@@ -135,4 +135,44 @@ a) em termos nominais (ou seja, a preços correntes)?
 
 b) em termos reais (ou seja, a preços constantes do ano $0$)?
 
+__R__: ==<span style="color:red">Por **resolver**</span>==.
 
+
+
+&nbsp;
+
+#### Exercício 9
+
+Suponha que vai comprar um computador portátil e que quer aproveitar a campanha da loja que corresponde a pagá-lo em 12 prestações de 100 euros. Sabendo que a taxa de juro aplicável corresponde a uma **Taxa Anual Nominal** de 12% diga:
+
+a) Qual é implicitamente o preço do computador?
+
+b) Qual o valor de juros incluido nas prestações a pagar?
+
+c) Se só pagasse o computador ao fim de um ano, e considerando a mesma taxa de juro anual de 12%, qual o montante que teria que pagar?
+
+__R__:
+
+a) $TAN = 12\%$ significa que a taxa de juro mensal $r_m = \frac{12\%}{12} = 1\%$
+
+Com esta taxa e considerando 12 períodos, o **Valor Atual da anuidade** é:
+
+$$ VA = A \frac{(1 + r)^n - 1}{(1 + r)^n \times r}  = 100 \times \frac{(1 + 0,01)^{12} - 1}{(1 + 0,01)^{12} \times 0,01} = 11,2550 \times 100 = 1.125,50 $$
+
+Ou seja, $\text{P = VA = 1.125,50€}$. É este Valor Atual ($VA$) encontrado da forma anterior que deverá ser igual ao preço $P$ do bem, ou seja, o preço do computador.
+
+b) O valor dos juros é a diferença entre o somatório das prestações pagas e o preço do computador:
+
+$$ 12 \times \text{100€} - \text{1.125,50€} = \text{74,5€} $$
+
+c) Se só se pagasse no fim do ano, e sendo a taxa de juro anual de $12\%$, pagaria:
+
+$$ \text{P} \times \text{(1 + 0,12)} = \text{1.125,50€} \times \text{1,12} = \text{1.260,56€} $$
+
+Este montante supera obviamente a soma das 12 prestações de 100€, que é 1.200€, refletindo o facto de o pagamento ser mais tardio do que o esquema da anuidade, em que se paga do mês 1 ao 12.
+
+&nbsp;
+
+#### Exercício 10
+
+Para um trabalho que se prevê durar 4 anos, uma empresa pode adquirir 

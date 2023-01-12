@@ -7,7 +7,7 @@ __Investimento__: é a aplicação de recursos limitados feita com vista a obter
 
 Na análise de um projeto de investimento procura-se avaliar se a afetação de recursos ($\text{R}$), feita inicialmente, é capaz de vir a gerar uma sucessão de benefícios líquidos ($\text{B}$) que excedem esse investimento inicial.
 
-$$ -\text{ R}-\text{R}-\text{R}+\text{B}+\text{B}+\text{B } ... +\text{B} $$
+$$ -\text{ R}-\text{R}-\text{R}+\text{B}+\text{B}+\text{B } ... +\text{ B} $$
 
 Para essa avaliação põe-se a questão de saber como obter esses recursos, ou seja, como financiar o projecto, através de capital próprio ou alheio, e de saber como prever os benefícios e custos futuros.
 
@@ -191,18 +191,18 @@ __Como se atualizam as rendas ou pagamentos?__
 
 $$ \text{Valor Atual (VA)} = \sum_{t=1..n} \frac{A_t}{(1 + r)^t} $$
 
-Trata-se de uma série em progressão geométrica com razão $ \frac{1}{1 + r} $ que pode ser escrita como:
+Trata-se de uma série em progressão geométrica com razão $\frac{1}{1 + r}$ que pode ser escrita como:
 
 $$ VA = A \frac{(1 + r)^n - 1}{(1 + r)^n \times r} = A f(r,n) $$
 
-em que $f(r,n)$ é o fator de anuidade e n é a perpetuidade.
+em que $f(r,n)$ é o fator de anuidade. É a fórmula do _Valor Atual de uma anuidade (sem crescimento)_.
 
-Quanto $n = \infty$ estamos perante o valor atual de uma perpetuidade:
+Quando $n = \infty$ estamos perante o _Valor Atual da perpetuidade (sem crescimento)_:
 
 $$ VA = A \times f(r,\infty) = A \times \frac{1}{r} $$
 
 !!! Note 
-    É este **Valor Atual** ($VA$) assim encontrado que deverá ser igual ao preço $P$ do nosso bem (vêr tabela anterior), ou ao valor do empréstimo contraido.
+    É este **Valor Atual** ($VA$) assim encontrado que deverá ser igual ao preço $P$ do nosso bem (vêr tabela anterior), ou ao valor do empréstimo contraído.
 
 
 **Caso haja antecipação dos pagamentos ou o seu adiamento**
@@ -218,22 +218,16 @@ As fórmulas terão de ser **modificadas**:
 
 **Caso de rendas crescentes**
 
-Os casos anteriores excluem os casos de **rendas crescentes**. Tendo em conta rendas crescentes a uma taxa $g < r$, temos a anuidade:
+Os casos anteriores excluem os casos de **rendas crescentes**. Tendo em conta rendas crescentes a uma taxa de crescimento constante $g < r$, ou seja, sucessivamente $A$, $A(1+g)$, $A(1+g)²$,..., as fórmulas da **anuidade** e da **perpetuidade** serão respetivamente:
 
+- Valor Atual da Anuidade com crescimento $g$:
 
+$$ VA = A \times (\frac{1}{r - g} - \frac{(1 + g)^n}{(1 + r)^n (r - g)}) $$
 
+- Valor Atual da Perpetuidade com crescimento $g$:
 
-## Sumário
+$$ VA = A \times \frac{1}{r - g} $$
 
-!!! Summary "Sumário"
-    Juros simples (os juros não acumulam ao capital)
-    
-    $$ \large C_n = rC_0​+C_0​=(1+r)C_0​ $$
+>Ver [Exercício 9](exercicios_2.md#exercicio-9) para exemplificação dos conceitos anteriores. 
 
-    Juros Compostos - Capitalização: Valor no ano $n$ de um capital aplicado no ano $0$
-
-    $$ \large C_n = C_0(1 + r)^n $$
-
-    Atualização (ou desconto): Valor Atual (no ano $0$) de um capital gerado no ano $n$
-
-    $$ \large VA = \frac{C_n}{(1 + r)^n} $$
+>Ver [Exercício 10](exercicios_2.md#exercicio-10) para exemplificação dos conceitos anteriores. 
