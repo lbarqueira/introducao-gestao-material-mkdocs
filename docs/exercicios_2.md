@@ -129,7 +129,7 @@ $$ TAN  = 2 \times 10\% = 20\% $$
 
 #### Exercício 8
 
-Se a taxa de juro anual **nominal ($r_n$)** for $2\%$ e a a taxa de inflação ($i$) for $1,5\%$, e tendo calculado anteriormente a taxa de juro real como $0,492\%$,$1.000$€ recebidos hoje capitalizam ao fim de 1 ano:
+Se a taxa de juro anual **nominal ($r_n$)** for $2\%$ e a a taxa de inflação ($i$) for $1,5\%$, e tendo calculado anteriormente a taxa de juro real como $0,492\%$, $1.000$€ recebidos hoje capitalizam ao fim de 1 ano:
 
 a) em termos nominais (ou seja, a preços correntes)?
 
@@ -145,15 +145,15 @@ __R__: ==<span style="color:red">Por **resolver**</span>==.
 
 Suponha que vai comprar um computador portátil e que quer aproveitar a campanha da loja que corresponde a pagá-lo em 12 prestações de 100 euros. Sabendo que a taxa de juro aplicável corresponde a uma **Taxa Anual Nominal** de 12% diga:
 
-a) Qual é implicitamente o preço do computador?
+_a)_ Qual é implicitamente o preço do computador?
 
-b) Qual o valor de juros incluido nas prestações a pagar?
+_b)_ Qual o valor de juros incluido nas prestações a pagar?
 
-c) Se só pagasse o computador ao fim de um ano, e considerando a mesma taxa de juro anual de 12%, qual o montante que teria que pagar?
+_c)_ Se só pagasse o computador ao fim de um ano, e considerando a mesma taxa de juro anual de 12%, qual o montante que teria que pagar?
 
 __R__:
 
-a) $TAN = 12\%$ significa que a taxa de juro mensal $r_m = \frac{12\%}{12} = 1\%$
+_a)_ $TAN = 12\%$ significa que a taxa de juro mensal $r_m = \frac{12\%}{12} = 1\%$
 
 Com esta taxa e considerando 12 períodos, o **Valor Atual da anuidade** é:
 
@@ -161,18 +161,46 @@ $$ VA = A \frac{(1 + r)^n - 1}{(1 + r)^n \times r}  = 100 \times \frac{(1 + 0,01
 
 Ou seja, $\text{P = VA = 1.125,50€}$. É este Valor Atual ($VA$) encontrado da forma anterior que deverá ser igual ao preço $P$ do bem, ou seja, o preço do computador.
 
-b) O valor dos juros é a diferença entre o somatório das prestações pagas e o preço do computador:
+_b)_ O valor dos juros é a diferença entre o somatório das prestações pagas e o preço do computador:
 
 $$ 12 \times \text{100€} - \text{1.125,50€} = \text{74,5€} $$
 
-c) Se só se pagasse no fim do ano, e sendo a taxa de juro anual de $12\%$, pagaria:
+_c)_ Se só se pagasse no fim do ano, e sendo a taxa de juro anual de $12\%$, pagaria:
 
 $$ \text{P} \times \text{(1 + 0,12)} = \text{1.125,50€} \times \text{1,12} = \text{1.260,56€} $$
 
 Este montante supera obviamente a soma das 12 prestações de 100€, que é 1.200€, refletindo o facto de o pagamento ser mais tardio do que o esquema da anuidade, em que se paga do mês 1 ao 12.
 
+
 &nbsp;
 
 #### Exercício 10
 
-Para um trabalho que se prevê durar 4 anos, uma empresa pode adquirir 
+Uma pessoa pretende adquirir um iPad cujo pagamento poderá ser feito de duas formas:
+
+_a)_ Pagamento em 12 prestações mensais constantes de 50€ cada, incluindo capital e juro. Sabendo que a taxa de juro anual nominal aplicada é de 10% calcule o preço de compra do iPad;
+
+_b)_ Considerando que o preço de compra do iPad é o calculado na alínea anterior, quanto é que fica a pagar por mês (em regime de prestações mensais constantes) na hipótese de o financiamento a obter incluir um pagamento inicial de 25% do valor do iPad, 11 prestações mensais e o pagamento do valor residual de 10% do valor de compra no mês 12.
+
+__R__: ==<span style="color:red">Por **resolver**</span>==.
+
+&nbsp;
+
+#### Exercício 11
+
+Para um trabalho que se prevê durar 4 anos, uma empresa pode adquirir uma máquina a pronto pagamento, o que lhe custará 10.000€, vendendo-a ao fim de 4 anos por 4.000€.
+
+_a)_ Qual o valor atual correspondente, se a taxa de atualização anual dor de 5%?
+
+_b)_ Em contrapartida, se alugar a máquina por 1.500€ anuais pagos no fim de cada ano, seria vantajoso?
+
+
+__R__: ==<span style="color:red">Por **resolver**</span>==.
+
+&nbsp;
+
+#### Exercício 12
+
+Quer comprar um apartamento e para isso necessita de um empréstimo de 250.000 €. Se as mensalidades de pagamento forem constantes, a taxa de juro média for de 1% ao mês (TAN=12%) e o prazo for de 30 anos, qual o valor de cada mensalidade a pagar ao banco?
+
+__R__: ==<span style="color:red">Por **resolver**</span>==.

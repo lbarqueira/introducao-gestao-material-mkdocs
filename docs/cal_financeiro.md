@@ -20,15 +20,15 @@ Idealmente, estaremos interessados em investir em projetos em que a soma dos $\t
 
 ## Capitalização e atualização. Juros simples e compostos
 
-__Suponha que tem 1.000€ hoje, no ano $0$, e pretende depositá-los no banco. O que vai acontecer?__
+**Suponha que tem 1.000€ hoje, no ano $0$, e pretende depositá-los no banco. O que vai acontecer?**
 
-Ao depositar os 1.000€ no banco, estes ficam a render a uma dada _taxa de juro anual_.
+Ao depositar os 1.000€ no banco, estes ficam a render a uma dada **taxa de juro anual**.
 
 Ao fim de 1 ano, há duas hipóteses:
 
-- __Levantar o juro__ ficando apenas o capital inicial $\rightarrow$ deixar nessa conta só o montante inicial, levantando os juros todos os anos (__regime juros simples__ - os juros não acumulam ao capital);
+- **Levantar o juro** ficando apenas o capital inicial $\rightarrow$ deixar nessa conta só o montante inicial, levantando os juros todos os anos (**regime juros simples** - os juros não acumulam ao capital);
 
-- __Acumular o juro__ ao capital $\rightarrow$ depositá-los numa conta a prazo em que os juros vencidos ficam a acumular nessa conta gerando mais juros (__regime juros compostos__ - esquema de capitalização).
+- **Acumular o juro** ao capital $\rightarrow$ depositá-los numa conta a prazo em que os juros vencidos ficam a acumular nessa conta gerando mais juros (**regime juros compostos** - esquema de capitalização).
 
 Assim:
 
@@ -230,4 +230,8 @@ $$ VA = A \times \frac{1}{r - g} $$
 
 >Ver [Exercício 9](exercicios_2.md#exercicio-9) para exemplificação dos conceitos anteriores. 
 
->Ver [Exercício 10](exercicios_2.md#exercicio-10) para exemplificação dos conceitos anteriores. 
+>Ver [Exercício 10](exercicios_2.md#exercicio-10) para exemplificação dos conceitos anteriores.
+
+>Ver [Exercício 11](exercicios_2.md#exercicio-11) para exemplificação dos conceitos anteriores. 
+
+>Ver [Exercício 12](exercicios_2.md#exercicio-11) para exemplificação dos conceitos anteriores. 
