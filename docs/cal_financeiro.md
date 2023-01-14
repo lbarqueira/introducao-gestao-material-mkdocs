@@ -222,7 +222,7 @@ Os casos anteriores excluem os casos de **rendas crescentes**. Tendo em conta re
 
 - Valor Atual da Anuidade com crescimento $g$:
 
-$$ VA = A \times (\frac{1}{r - g} - \frac{(1 + g)^n}{(1 + r)^n (r - g)}) $$
+$$ VA = A \times \left(\frac{1}{r - g} - \frac{(1 + g)^n}{(1 + r)^n (r - g)} \right) $$
 
 - Valor Atual da Perpetuidade com crescimento $g$:
 
