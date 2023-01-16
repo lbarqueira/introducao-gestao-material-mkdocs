@@ -1,8 +1,22 @@
-### Vídeos - YouTube
+### Vídeos
 
-[YouTube - Conferência on-line CONTABILIDADE para JURISTAS - 24.jun 2020](https://www.youtube.com/watch?v=hMzDs-CkDqw)
+[Principios básicos de contabilidade para empreendedores, Instituto Politécnico de Portalegre, 15.dez 2021](https://educast.fccn.pt/vod/clips/2arvv41yek/streaming.html?locale=pt)
 
-[YouTube - Conferência on-line CONTABILIDADE para JURISTAS - 26.jun 2020](https://www.youtube.com/watch?v=gBupK9Op6yg)
+[Introdução ao balanço, Teresa Lemos, IEEE-IST Student Branch, 17.dez 2015](https://www.youtube.com/watch?v=124q665ESVs)
+
+[Rúbricas do balanço, Teresa Lemos, IEEE-IST Student Branch, 17.dez 2015](https://www.youtube.com/watch?v=y9IZqyXTNhc)
+
+[Demonstração de resultados, Teresa Lemos, IEEE-IST Student Branch, 17.dez 2015](https://www.youtube.com/watch?v=D1C0hDKFN7Y)
+
+[Depreciações, Teresa Lemos, IEEE-IST Student Branch, 17.dez 2015](https://www.youtube.com/watch?v=q9eu0LCG4Ao)
+
+[Conferência on-line CONTABILIDADE para JURISTAS - 24.jun 2020](https://www.youtube.com/watch?v=hMzDs-CkDqw)
+
+[Conferência on-line CONTABILIDADE para JURISTAS - 26.jun 2020](https://www.youtube.com/watch?v=gBupK9Op6yg)
+
+[Análise financeira para Ideias de Negócio | UAi Knowledge, 26.jul 2021](https://www.youtube.com/watch?v=oOhgxLJlYrQ)
+
+[A viabilidade Financeira de uma Projeto, Instituto Politécnico de Portalegre, 15.dez 2021](https://educast.fccn.pt/vod/clips/w3vqiavx8/streaming.html?locale=pt)
 
 
 ### Documentação Geral

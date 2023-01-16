@@ -4,6 +4,8 @@
 
 **Contabilidade**: Processo formal de identificar, medir e comunicar informação sobre o património e resultados da empresa para os decisores e outros agentes económicos.
 
+>Ver [Principios básicos de contabilidade para empreendedores, Instituto Politécnico de Portalegre, 15.dez 2021](referencias.md#videos) para vídeo explicativo.
+
 **Contabilidade Geral vs Contabilidade Analítica**
 
 - ```Contabilidade Geral (Financeira ou Externa)```
@@ -41,11 +43,11 @@ $$ \normalsize {\text{Ativo} = \text{Passivo} + \text{Capital Próprio}} $$
 
 
 
-
-
 ## Os principais mapas contabilísticos
 
 #### Balanço
+
+>Ver [Introdução ao balanço, Teresa Lemos, IEEE-IST Student Branch, 17.dez 2015](referencias.md#videos) para vídeo explicativo.
 
 O Balanço é uma ***fotografia num dado momento*** (fim do ano, do semestre ou do trimestre, por exemplo) da situação patrimonial (posição financeira) da empresa.
 
@@ -59,6 +61,8 @@ Uma apresentação mais detalhada do balanço e dos restantes mapas encontra-se 
 Para ver a lista de todas as NCRF - Normas Contabilísticas e de Relato Financeiro (1 a 28) e restantes instrumentos contabilísticos do Sistema de Normalização Contabilística (SNC) clicar neste [link](http://www.cnc.min-financas.pt/Instrumentos_snc2016.html).
 
 __Rubricas do balanço__:
+
+>Ver [Rúbricas do balanço, Teresa Lemos, IEEE-IST Student Branch, 17.dez 2015](referencias.md#videos) para vídeo explicativo.
 
 - **Ativo** (lado esquerdo): registam-se as __aplicações de fundos__ em bens, ou direitos a receber. Inclui nomeadamente:
 
@@ -120,7 +124,6 @@ __Notas:__
 >Ver [Exercício 3](exercicios_1.md#exercicio-3) para exemplificação de operações com aplicação da dupla entrada.
 
 
-
 #### Demonstração dos fluxos de caixa
 
 Visa fornecer informação sobre o desempenho financeiro.
@@ -138,9 +141,12 @@ As rubricas recebimentos e pagamentos deste mapa apresentam-se discriminadas res
   <figcaption>Demonstração de fluxos de caixa</figcaption>
 </figure>
 
+
 #### Demonstração de resultados
 
 Visa fornecer informação sobre o desempenho económico.
+
+>Ver [Demonstração de resultados, Teresa Lemos, IEEE-IST Student Branch, 17.dez 2015](referencias.md#videos) para vídeo explicativo.
 
 A Demonstração de Resultados é um documento financeiro que exprime para um dado período de tempo a diferença entre os fluxos de __rendimentos__ de, por exemplo, vendas de produtos ou mercadorias, ou serviços prestados, e os diferentes tipos de __gastos__ (matéria-prima, energia, gastos de distribuição, gastos com vencimentos do pessoal, juros, etc.). Essa diferença dá lugar ao designado __resultado antes de impostos__, após o que se calcula o imposto a pagar (em Portugal, o imposto é o __IRC - Imposto sobre o Rendimento das Pessoas Coletivas__) e, finalmente, o __resultado líquido do período__, cujo valor também encontramos no lado direito do Balanço, no Capital Próprio.
 
@@ -202,8 +208,11 @@ $$ {\text{RL} = \text{RAI} - \text{Imposto sobre o rendimento do período}} $$
 
 >Ver [Exercício 6](exercicios_1.md#exercicio-6) para exemplificação de Demonstração de Resultados.
 
+&nbsp;
 
 __Depreciações e amortizações de ativos não-correntes__
+
+>Ver [Depreciações, Teresa Lemos, IEEE-IST Student Branch, 17.dez 2015](referencias.md#videos) para vídeo explicativo.
 
 Ativos não-correntes que a empresa utiliza na sua atividade operacional:
 

@@ -182,7 +182,23 @@ _a)_ Pagamento em 12 prestações mensais constantes de 50€ cada, incluindo ca
 
 _b)_ Considerando que o preço de compra do iPad é o calculado na alínea anterior, quanto é que fica a pagar por mês (em regime de prestações mensais constantes) na hipótese de o financiamento a obter incluir um pagamento inicial de 25% do valor do iPad, 11 prestações mensais e o pagamento do valor residual de 10% do valor de compra no mês 12.
 
-__R__: ==<span style="color:red">Por **resolver**</span>==.
+__R__:
+
+_a)_ $TAN = 10\%$, significa que a taxa de juro mensal $r_m = \frac{10\%}{12}$
+
+$$ \small \begin{aligned} P = VA \\ &= A \times f(r,n) \\ &= A \times f(\frac{0,1}{12},12) \\ &= A \times \frac{(1 + r)^n - 1}{(1 + r)^n \times r} \\ &= 50 \times \frac{(1 + 0,00833)^{12} - 1}{(1 + 0,00833)^{12} \times 0,00833} \\ &= 50 \times 11,3745 \\ &= 568,725 \end{aligned}$$
+
+O preço de compra do iPad ($P$) é $568,725$€.
+ 
+_b)_ Sabendo que o preço de compra do iPad é $568,725$€. Então:
+
+$$ 25\% \times 568,725 + A \times f(\frac{10\%}{12},11) + (10\% \times 568,725) \times \frac{1}{(1 + \frac{10\%}{12})^{12}} $$
+
+$$ 0,25 \times 568,725 + A \times f(\frac{0,1}{12},11) + (0,1 \times 568,725) \times \frac{1}{(1 + \frac{0,1}{12})^{12}} $$
+
+$$ f(\frac{0,1}{12},11) = 10,4693 $$
+
+Ou seja, $A$, a mensalidade será de $35,8$€.
 
 &nbsp;
 
@@ -190,12 +206,29 @@ __R__: ==<span style="color:red">Por **resolver**</span>==.
 
 Para um trabalho que se prevê durar 4 anos, uma empresa pode adquirir uma máquina a pronto pagamento, o que lhe custará 10.000€, vendendo-a ao fim de 4 anos por 4.000€.
 
-_a)_ Qual o valor atual correspondente, se a taxa de atualização anual dor de 5%?
+_a)_ Qual o valor atual correspondente, se a taxa de atualização anual for de 5%?
 
 _b)_ Em contrapartida, se alugar a máquina por 1.500€ anuais pagos no fim de cada ano, seria vantajoso?
 
 
-__R__: ==<span style="color:red">Por **resolver**</span>==.
+__R__:
+
+_a)_ Na **primeira hipótese**, de **comprar** a máquina a pronto de pagamento e revender depois de a usar, temos:
+
+$$ VA = \frac{C_4}{(1 + r)^4}  = \frac{4.000}{(1 + 0,05)^4} $$
+
+$$ VAL = \text{Valor Atual Líquido} = - 10.000 + VA = -6.709,19 \text{€} $$
+
+Ou seja, estou a subtrair o montante do investimento inicial, daí tratar-se do _Valor Atual Líquido_.
+
+
+_b)_ Nesta **segunda hipótese**, de **aluguer**, temos, usando a fórmula da anuidade sem crescimento:
+
+$$ \small \begin{aligned} VA = A \frac{(1 + r)^n - 1}{(1 + r)^n \times r} = A f(r,n) \end{aligned} $$
+
+$$ \small \begin{aligned} VA = - 1.500 \times \frac{(1 + 0,05)^4 - 1}{(1 + 0,05)^4 \times 0,05} = -5.318,93 \text{€} \end{aligned} $$
+
+Ou seja, como $-\text{5.318,93€} > -\text{6.709,19€}$, a opção de aluguer é mais barata, sendo preferível à compra.
 
 &nbsp;
 

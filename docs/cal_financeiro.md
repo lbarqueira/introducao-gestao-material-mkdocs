@@ -234,4 +234,4 @@ $$ VA = A \times \frac{1}{r - g} $$
 
 >Ver [Exercício 11](exercicios_2.md#exercicio-11) para exemplificação dos conceitos anteriores. 
 
->Ver [Exercício 12](exercicios_2.md#exercicio-11) para exemplificação dos conceitos anteriores. 
+>Ver [Exercício 12](exercicios_2.md#exercicio-12) para exemplificação dos conceitos anteriores. 
