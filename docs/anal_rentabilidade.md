@@ -50,11 +50,11 @@ $$ \text{Inv.FME} = \Delta (\text{Inventário} + \text{Clientes} - \text{Fornece
 
 $$ \small VR =  \text{Valor Mercado}_n - (\text{Valor Mercado}_n - \text{Valor Contabilístico}_n) \times \text{Taxa Imposto} $$
 
-&emsp; Onde:
+&emsp; onde:
 
-&emsp; &emsp;  $\small \text{Valor Mercado}_n = \text{Valor esperado de venda do ativo no ano n}$
+$$ \small \text{Valor Mercado}_n = \text{Valor esperado de venda do ativo no ano n} $$
 
-&emsp; &emsp; $\small \text{Valor Contabilístico}_n = \text{Valor de compra} - \text{Amort./ Depreciações Acumuladas no ano n}$
+$$ \small \text{Valor Contabilístico}_n = \text{Valor de compra} - \text{Amort./ Depreciações Acumuladas no ano n} $$
 
 ### _Cash Flows_ de exploração (CFE)
 
@@ -67,13 +67,18 @@ $$ CFE = EBIT \times (1 - \text{tx.imposto}) + \text{Amortizações e Depreciaç
 &emsp; &emsp; *EBIT* (*Earnings before interest and tax*) $=$ Resultados Antes de Juros e Impostos (RAJI) $=$ **Resultados Operacionais**
 
 !!! Note 
-    Considera-se aqui o $EBIT \times (1-\text{tx.imposto}) = \text{resultado operacional líquido de impostos}$, **em vez de** $EBT \times (1-\text{tx.imposto}) = \text{Resultado Líquido do Período}$,  para não deduzir os custos financeiros de financiamento que aparecem como taxa de juro na taxa de atualização dos cash flows. Isso é coerente com o facto de se considerar o montante total do investimento e não só a parte financiada por capitais próprios.
+    Considera-se aqui o **EBIT x (1 - tx.imposto) = resultado operacional líquido de impostos**, *em vez de* **EBT x (1 - tx.imposto) = Resultado Líquido do Período**,  para não deduzir os custos financeiros de financiamento que aparecem como taxa de juro na taxa de atualização dos cash flows. Isso é coerente com o facto de se considerar o montante total do investimento e não só a parte financiada por capitais próprios.
 
 !!! Note 
     Quando temos um __*EBIT* negativo__, e vamos cálcular $EBIT \times (1-\text{tx.imposto})$ como procedemos? 
+    
     **Exemplo**: $\text{tx.imposto} = 25\%$ e $\text{EBIT} = -30.000$€
 
-    a) Tratando-se de uma empresa, o pressuposto geral é que com resultado (EBIT) negativo não há imposto, ou seja ele é zero $ $
+    a) Tratando-se de uma **empresa, o pressuposto geral é que com resultado (EBIT) negativo não há imposto**, ou seja ele é zero $\implies$ $EBIT \times (1-\text{tx.imposto}) = -30.000$€.
+
+    b) Se o **EBIT é negativo**, mas se trata de um projeto implementado por uma **empresa lucrativa** apesar do projeto, então para calcular o EBIT líquido e o seu *cash flow*, o imposto tem que ser calculado e neste caso ele é negativo. $EBIT \times (1-\text{tx.imposto}) = -22.500$€
+
+    Ou seja, a empresa pagará menos impostos. Há obviamente um contributo positivo para o *cash flow* do projeto porque essa diferença corresponde a um benefício fiscal que contará assim positivamente no projeto.
 
 
 >Ver [Exercício 1](exercicios_3.md#exercicio-1) para exemplo de cálculo do mapa de *cash flows* de um projeto.
