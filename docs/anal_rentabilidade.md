@@ -22,13 +22,15 @@ Subdividem-se em:
 
 &emsp;__c)__ Valor residual do investimento
 
-**Despesas de investimento em capital fixo**
+Desenvolvendo:
+
+**a) Despesas de investimento em capital fixo**
 
 - correspondem ao primeiro ou primeiros cash flows e são **negativos**, uma vez que são saídas de dinheiro;
 
 -  **despesas de investimento** em ativos fixos tangíveis (terrenos, edifícios, equipamentos) e intangíveis (software, licenças e patentes).
 
-**Investimento em fundo de maneio de exploração**
+**b) Investimento em fundo de maneio de exploração**
 
 - fundos necessários para constituição e reforço de inventário de matérias-primas ou mercadorias, ou para financiar os custos com os produtos vendidos a crédito num dado ano, deduzidos do montante obtido por crédito dos fornecedores;
 
@@ -38,7 +40,7 @@ Subdividem-se em:
 
 $$ \text{Inv.FME} = \Delta (\text{Inventário} + \text{Clientes} - \text{Fornecedores}) $$
 
-**Valor Residual do Investimento**
+**c) Valor Residual do Investimento**
 
 - **No final do tempo de vida do projeto**, o valor das despesas de investimento em capital fixo que seja recuperável constitui um *cash flow* **positivo**, conhecido como *valor residual do investimento*;
 
@@ -82,3 +84,22 @@ $$ CFE = EBIT \times (1 - \text{tx.imposto}) + \text{Amortizações e Depreciaç
 
 
 >Ver [Exercício 1](exercicios_3.md#exercicio-1) para exemplo de cálculo do mapa de *cash flows* de um projeto.
+
+## Taxa de atualização
+
+Tendo por base o [Exercício 1](exercicios_3.md#exercicio-1) sabemos como calcular os *cash flows* de um projeto. 
+
+No entanto, na **Avaliação de Projetos de Investimento** estamos confrontados com a necessidade de comparar Fluxos financeiros aplicados numa fase inicial (hip. ano $0$), com Fluxos gerados nos anos seguintes (anos $1, 2, 3 , 4, ...$).
+
+A solução é **atualizá-los**, dividindo cada $CF_j$ (*cash flow* do período $j$) por $(1 + r)^{j}$, ou seja,  $\frac{CF_j}{(1 + r)^{j}}$, onde $r$ é a taxa de atualização.
+
+>Ver [Exercício 2](exercicios_3.md#exercicio-2) para consolidação do conceito de avaliação de projetos e a taxa de atualização.
+
+TODO: 
+>Ver [Exercício 3](exercicios_3.md#exercicio-3) para introdução da taxa de atualização no [Exercício 1](exercicios_3.md#exercicio-1).
+
+**Qual deverá ser a taxa de atualização $r$?**
+
+Os *cash flows* estão expressos em termos nominais, a preços correntes, ou reais, a preços constantes.
+
+Se estiverem a preços correntes, a taxa de atualização $r$ ........
