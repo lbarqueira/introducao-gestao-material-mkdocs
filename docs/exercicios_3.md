@@ -30,7 +30,7 @@ Onde: $\small\text{Taxa Imposto}$ é a taxa de imposto sobre o rendimento ($\tex
 Preenche-se o **Mapa de *Cash Flows*** com a apresentação que se segue. Noutros exercícios o que poderá variar é a discriminação de rúbricas de gastos.
 
 <figure markdown>
-  <img src="../images/tabela_38.png" width="700">
+  <img src="../images/tabela_38.png" width="900">
   <figcaption>Mapa de Cash Flows</figcaption>
 </figure>
 
@@ -38,9 +38,18 @@ Preenche-se o **Mapa de *Cash Flows*** com a apresentação que se segue. Noutro
 #### Exercício 2
 
 <figure markdown>
-  <img src="../images/tabela_39.png" width="800">
+  <img src="../images/tabela_39.png" width="900">
   <figcaption>Avaliação de Projetos e Atualização</figcaption>
 </figure>
 
 #### Exercício 3
+
+Introdução da *taxa de atualização* ao [Exercício 1](exercicios_3.md#exercicio-1).
+
+- A **taxa de atualização** é de $10\%$.
+
+<figure markdown>
+  <img src="../images/tabela_40.png" width="900">
+  <figcaption>Mapa de Cash Flows com cálculo de VAL</figcaption>
+</figure>
 
