@@ -100,6 +100,4 @@ TODO:
 
 **Qual deverá ser a taxa de atualização $r$?**
 
-Os *cash flows* estão expressos em termos nominais, a preços correntes, ou reais, a preços constantes.
-
-Se estiverem a preços correntes, a taxa de atualização $r$ ........
+As taxas de atualização são em geral **nominais**, aplicadas a *cash flows* a preços correntes.
