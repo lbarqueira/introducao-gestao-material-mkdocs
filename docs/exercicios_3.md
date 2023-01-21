@@ -49,7 +49,35 @@ Introdução da *taxa de atualização* ao [Exercício 1](exercicios_3.md#exerci
 - A **taxa de atualização** é de $10\%$.
 
 <figure markdown>
-  <img src="../images/tabela_40.png" width="900">
+  <img src="../images/tabela_40.png" width="1000">
   <figcaption>Mapa de Cash Flows com cálculo de VAL</figcaption>
 </figure>
 
+- Qual o Valor Atual Líquido deste projeto (em euros)? __R__: $\text{92.170}$€
+
+- Qual o Valor Atual deste projeto (em euros)? __R__: $\text{197.170}$€
+
+- Qual o cash-flow total atualizado no ano 1 (em euros)? __R__: $\text{38.636}$€
+
+
+#### Exercício 4
+
+Retomando o [Exercício 1](exercicios_3.md#exercicio-1).
+
+- Admitindo que 30% do valor deste investimento será obtido por financiamento bancário, com uma taxa de juro anual de 5%, e que os acionistas esperam uma rentabilidade anual de 4%, **qual seria o Custo Médio Ponderado do Capital**?
+
+__R__: 
+
+$$ \text{CMPC ou (WACC – Weighted Average Cost of Capital)} = $$
+
+$$ = r_{CP} \times \%CP + r_{D} \times (1 - t) \times \% D $$
+
+$$ = 0,04 \times 0,70 + 0,05 \times (1 - 0,25) \times 0,30 = 0,03925 = 3,93\% $$
+
+- Onde: $\text{t}$ é a taxa de imposto sobre o rendimento / lucros ($\text{IRC}$) que foi considerada no [Exercício 1](exercicios_3.md#exercicio-1) como $25\%$
+
+
+
+#### Exercício 5
+
+Uma empresa tem um Capital Social composto por 10.000 ações, com um valor nominal de 1€ cada. 

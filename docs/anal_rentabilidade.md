@@ -97,17 +97,29 @@ A solução é **atualizá-los**, dividindo cada $CF_j$ (*cash flow* do período
 
 >Ver [Exercício 3](exercicios_3.md#exercicio-3) para *introdução da taxa de atualização* no [Exercício 1](exercicios_3.md#exercicio-1).
 
-**Qual deverá ser a taxa de atualização $r$?**
+**Mas qual deverá ser a taxa de atualização $r$?**
 
 - As taxas de atualização são em geral **nominais**, aplicadas a *cash flows* a preços correntes.
 
-- Quando os Cash Flows são reais ou a preços constantes, utilizam-se taxas de atualização reais.
+- Quando os *cash flows* são reais ou a preços constantes, utilizam-se taxas de atualização reais, calculadas de acordo com o que vimos anteriormente:
+
+$$ \text{taxa real} = \frac {\text{1 + taxa nominal}}{\text{(1 + taxa inflação)}} - 1 $$
 
 - A determinação das taxas de atualização deve ter em conta o risco associado ao investimento.
 
-- As taxas de atualização exprimem o **custo de oportunidade do capital** ou seja o rendimento que o investidor pretende tendo em conta o risco do investimento. *O investidor exige receber pelo menos a taxa que obteria em investimentos alternativos com o mesmo grau de risco*.
+- As taxas de atualização exprimem o **custo de oportunidade do capital** ou seja, o rendimento que o investidor pretende tendo em conta o risco do investimento. **O investidor exige receber pelo menos a taxa que obteria em investimentos alternativos com o mesmo grau de risco**.
 
-- Se:
+
+
+- A taxa de atualização de um projeto financiado **só com capital próprio** deve corresponder à **soma** de:
+
+    - **rendimento esperado de activos sem risco** (rendimentos previsíveis a priori com precisão, como a remuneração dos títulos de dívida do Estado, geralmente mais elevada que a dos depósitos bancários)
+
+    -  **com um prémio de risco** inerente à atividade económica em causa e ao risco financeiro associado ao grau de endividamento da empresa.
+
+$$ \small \text{Taxa de atualização para um investimento financiado com capital prórpio} = \text{taxa de remuneração de um ativo sem risco} + \text{prémio de risco} $$
+
+- Exemplo:
 
     - A taxa de juro sem risco (obrigações do tesouro) = $2\%$
 
@@ -119,19 +131,19 @@ A solução é **atualizá-los**, dividindo cada $CF_j$ (*cash flow* do período
 
     - $P_r -$ prémio de risco
 
-- A taxas de atualização de um projeto financiado exclusivamente por capital próprio deve corresponder à **soma** de:
 
-    - **rendimento esperado de activos sem risco** (rendimentos previsíveis a priori com precisão, como a remuneração dos títulos de dívida do Estado, geralmente mais elevada que a dos depósitos bancários)
+- Quando, como é comum, houver financiamento **também com capital alheio**, dívida (p.ex, bancária ou obrigacionista), a taxa de atualização deve incorporar também a taxa de juro da dívida líquida de impostos, uma vez que as empresas podem deduzir aos resultados os juros pagos e com isso pagar menos impostos.
 
-    -  **com um prémio de risco** inerente à atividade económica em causa e ao risco financeiro associado ao grau de endividamento da empresa.
+- Nesse caso (**de financiamento misto**), a taxa de atualização deve ser igual ao **custo médio ponderado do capital** ($\text{CMPC}$), sendo a ponderação dada pelas percentagens dos dois tipos de capital, calculadas **ao valor de mercado**:
 
-- Quando houver financiamento também com capital alheio, dívida, a taxa de atualização deve incorporar também a taxa de juro da dívida líquida de impostos, uma vez que as empresas podem deduzir aos resultados os juros pagos e com isso pagar menos impostos.
-
-- Nesse último caso a taxa de atualização deve ser igual ao **custo médio ponderado do capital**, sendo a ponderação dada pelas percentagens dos dois tipos de capital, calculadas ao valor de mercado:
+$$ \text{Taxa de atualização com financiamento misto (Capital Próprio CP e Dívida D)} = $$
 
 $$ \text{CMPC ou (WACC – Weighted Average Cost of Capital)} = $$
 
 $$ = r_{CP} \times \%CP + r_{D} \times (1 - t) \times \% D $$
 
-$$ \small \text{taxa de remuneração do capital próprio} \times \%\text{capital próprio} + \text{taxa de juro dos empréstimos líquida de impostos} \times \%\text{capital alheio} $$
+$$ \small = \text{taxa de remuneração do capital próprio} \times \%\text{capital próprio} + \text{taxa de juro dos empréstimos líquida de impostos} \times \%\text{capital alheio} $$
 
+>Ver [Exercício 4](exercicios_3.md#exercicio-4) para exemplificação do cálculo da taxa de atualização.
+
+>Ver [Exercício 5](exercicios_3.md#exercicio-5) para exemplificação do cálculo da taxa de atualização.
