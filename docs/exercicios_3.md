@@ -80,4 +80,16 @@ $$ = 0,04 \times 0,70 + 0,05 \times (1 - 0,25) \times 0,30 = 0,03925 = 3,93\% $$
 
 #### Exercício 5
 
-Uma empresa tem um Capital Social composto por 10.000 ações, com um valor nominal de 1€ cada. 
+Uma empresa tem um Capital Social composto por 10.000 ações, com um valor nominal de 1€ cada. O valor do capital próprio em balanço é de 70.000€ e cada ação está cotada em 10€. O financiamento com recurso a terceiros é constituido por um empréstimo bancário no valor de 50.000€, e por 5.000 obrigações com um valor nominal de 1€ e cotação de 0,8€.
+
+__a)__ Qual o valor de capital próprio relevante para cálculo do $CMPC$ (*Custo Médio Ponderado do Capital*)?
+
+__b)__ Qual o valor da dívida relevante para cálulo do $CMPC$ (*Custo Médio Ponderado do Capital*)?
+
+__c)__ Qual o valor das percentagens de capital próprio e alheio para cálculo do $CMPC$ (*Custo Médio Ponderado do Capital*)?
+
+__d)__ Se a taxa de impostos sobre lucros ($IRC$) for de $25\%$, o custo médio da dívida ($r_D$) for de $5\%$, e a remuneração requerida pelos acionistas ($r_{CP}$) for igual à dos títulos do Estado de curto prazo ($1,5\%$) $+$ o prémio de risco de $6,5\%$, qual será o $CMPC$?
+
+__R__:
+
+TODO

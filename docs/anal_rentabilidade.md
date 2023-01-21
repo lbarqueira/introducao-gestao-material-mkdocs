@@ -146,4 +146,19 @@ $$ \small = \text{taxa de remuneração do capital próprio} \times \%\text{capi
 
 >Ver [Exercício 4](exercicios_3.md#exercicio-4) para exemplificação do cálculo da taxa de atualização.
 
->Ver [Exercício 5](exercicios_3.md#exercicio-5) para exemplificação do cálculo da taxa de atualização.
+>Ver [Exercício 5](exercicios_3.md#exercicio-5) para exemplificação e consolidação do cálculo da taxa de atualização.
+
+
+## Critérios de análise da rentabilidade dos projetos
+
+### O Valor Atual Líquido ($VAL$)
+
+
+### A Taxa Interna de Rentabilidade ($TIR$)
+
+
+### Período de Recuperação do Investimento ($PRI$)
+
+
+### Índice de Rendibilidade ($IR$)
+
