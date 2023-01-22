@@ -151,14 +151,14 @@ $$ \small = \text{taxa de remuneração do capital próprio} \times \%\text{capi
 
 ## Critérios de análise da rentabilidade dos projetos
 
-### O Valor Atual Líquido ($VAL$)
+### O Valor Atual Líquido (*VAL*)
 
 
-### A Taxa Interna de Rentabilidade ($TIR$)
+### A Taxa Interna de Rentabilidade (*TIR*)
 
 
-### Período de Recuperação do Investimento ($PRI$)
+### Período de Recuperação do Investimento (*PRI*)
 
 
-### Índice de Rendibilidade ($IR$)
+### Índice de Rendibilidade (*IR*)
 
