@@ -182,7 +182,7 @@ $$ r = TIR $$
 
 - Calcula-se iterativamente;
 
-- Aceitar um projeto com $VAL(r)>0$ é equivalente a aceitá-lo quando $TIR>r$
+- **Aceitar um projeto com $VAL(r)>0$, dada a taxa de atualização $r$, é equivalente a, aceitá-lo quando $TIR>r$**
 
 
 
