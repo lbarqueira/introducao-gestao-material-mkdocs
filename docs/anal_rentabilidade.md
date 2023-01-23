@@ -174,6 +174,17 @@ Baseados no *VAL*, podem-se enunciar **duas regras de decisão**:
 
 ### A Taxa Interna de Rentabilidade (*TIR*)
 
+Calculado a par do *VAL*, é outro indicador de rentabilidade. Corresponde à taxa de atualização para a qual o *VAL* é zero.
+
+$$ \text{VAL(r)} = \sum _{k=0}^{n} \frac{CF_k}{(1 + r)^k} = 0 $$
+
+$$ r = TIR $$
+
+- Calcula-se iterativamente;
+
+- Aceitar um projeto com $VAL(r)>0$ é equivalente a aceitá-lo quando $TIR>r$
+
+
 
 ### Período de Recuperação do Investimento (*PRI*)
 
