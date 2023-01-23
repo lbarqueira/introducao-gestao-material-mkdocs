@@ -93,3 +93,20 @@ __d)__ Se a taxa de impostos sobre lucros ($IRC$) for de $25\%$, o custo médio 
 __R__:
 
 TODO
+
+#### Exercício 6
+
+Qual a **taxa de atualização** a utilizar num projeto de investimento por uma empresa que se financia em valores de mercado a 70% de capital próprio (*Equity*) e 30% em capital alheio (*Debt*) , sendo o custo médio da dívida (juros) de 6% e a rentabilidade esperada pelos acionistas (custo do capital próprio) de 7%? (Nota: assuma que a empresa é lucrativa e paga uma taxa de imposto de 30%).
+
+__R__:
+
+A taxa de atualização a utilizar num projeto de investimento é conhecida como WACC (Weighted Average Cost of Capital), que é calculada como a média ponderada dos custos de capital próprio e de terceiros (alheios). Neste caso, como a empresa financia-se a 70% com capital próprio e a 30% com dívida, o WACC seria:
+
+$$ \text{CMPC ou (WACC – Weighted Average Cost of Capital)} = $$
+
+$$ = r_{CP} \times \%CP + r_{D} \times (1 - t) \times \% D $$
+
+$$ = 0,07 \times 0,70 + 0,06 \times (1 - 0,30) \times 0,30 = 0,0616 = 6,16\% $$
+
+#### Exercício 7
+

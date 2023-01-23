@@ -25,3 +25,4 @@ Consultar igualmente [Glossário Bilingue (português ↔ inglês)](https://www.
 | Resultado líquido do período      | Net income / Net profit              |
 | Resultado operacional (antes de gastos de financiamentos e impostos)     | EBIT (Earnings Before Interest and Taxes)                               |
 | EBITDA – Resultado antes de depreciações, gastos de financiamento e impostos | EBITDA (Earnings Before Interest, Taxes, Depreciation and Amortization) |
+| Valor Atual Líquido ($VAL$)        | Net Present Value ($NPV$)                         |

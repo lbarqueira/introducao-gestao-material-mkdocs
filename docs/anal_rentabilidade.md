@@ -148,10 +148,28 @@ $$ \small = \text{taxa de remuneração do capital próprio} \times \%\text{capi
 
 >Ver [Exercício 5](exercicios_3.md#exercicio-5) para exemplificação e consolidação do cálculo da taxa de atualização.
 
+>Ver [Exercício 6](exercicios_3.md#exercicio-6) para exemplificação e consolidação do cálculo da taxa de atualização.
 
 ## Critérios de análise da rentabilidade dos projetos
 
 ### O Valor Atual Líquido (*VAL*)
+
+O cálculo do *VAL* consiste na soma de todos os *cash flows* $CF_{k}$ do projeto devidamente atualizados:
+
+$$ \text{VAL(r)} = \sum _{k=0}^{n} \frac{CF_k}{(1 + r)^k} $$
+
+onde:
+
+- $k$, refere-se habitualmente a um ano, embora seja possivel outra periodicidade, desde que seja coincidente com a periocidade da taxa de atualização;
+
+- o período inicial é $0$.
+
+Baseados no *VAL*, podem-se enunciar **duas regras de decisão**:
+
+- **Caso de um único projeto**: Se $VAL(r)>0$ $=>$ **Projeto Rentável** à taxa de atualização $r$;
+
+- **Caso de dois ou mais projetos**: Entre dois projetos $A$ e $B$, se $VAL_A > VAL_B$, Projecto $A$ é preferível a Projecto $B$.
+
 
 
 ### A Taxa Interna de Rentabilidade (*TIR*)
