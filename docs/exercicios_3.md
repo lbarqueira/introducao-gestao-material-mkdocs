@@ -34,6 +34,7 @@ Preenche-se o **Mapa de *Cash Flows*** com a apresentação que se segue. Noutro
   <figcaption>Mapa de Cash Flows</figcaption>
 </figure>
 
+&nbsp;
 
 #### Exercício 2
 
@@ -41,6 +42,8 @@ Preenche-se o **Mapa de *Cash Flows*** com a apresentação que se segue. Noutro
   <img src="../images/tabela_39.png" width="900">
   <figcaption>Avaliação de Projetos e Atualização</figcaption>
 </figure>
+
+&nbsp;
 
 #### Exercício 3
 
@@ -59,6 +62,7 @@ Introdução da *taxa de atualização* ao [Exercício 1](exercicios_3.md#exerci
 
 - Qual o cash-flow total atualizado no ano 1 (em euros)? __R__: $\text{38.636}$€
 
+&nbsp;
 
 #### Exercício 4
 
@@ -76,7 +80,7 @@ $$ = 0,04 \times 0,70 + 0,05 \times (1 - 0,25) \times 0,30 = 0,03925 = 3,93\% $$
 
 - Onde: $\text{t}$ é a taxa de imposto sobre o rendimento / lucros ($\text{IRC}$) que foi considerada no [Exercício 1](exercicios_3.md#exercicio-1) como $25\%$
 
-
+&nbsp;
 
 #### Exercício 5
 
@@ -94,6 +98,8 @@ __R__:
 
 TODO
 
+&nbsp;
+
 #### Exercício 6
 
 Qual a **taxa de atualização** a utilizar num projeto de investimento por uma empresa que se financia em valores de mercado a 70% de capital próprio (*Equity*) e 30% em capital alheio (*Debt*) , sendo o custo médio da dívida (juros) de 6% e a rentabilidade esperada pelos acionistas (custo do capital próprio) de 7%? (Nota: assuma que a empresa é lucrativa e paga uma taxa de imposto de 30%).
@@ -108,5 +114,15 @@ $$ = r_{CP} \times \%CP + r_{D} \times (1 - t) \times \% D $$
 
 $$ = 0,07 \times 0,70 + 0,06 \times (1 - 0,30) \times 0,30 = 0,0616 = 6,16\% $$
 
+&nbsp;
+
 #### Exercício 7
 
+<figure markdown>
+  <img src="../images/tabela_41.png" width="800">
+  <figcaption>Mapa de Cash Flows</figcaption>
+</figure>
+
+$$ \text{Payback Period} = 3 + \frac{100}{420} = 3,238 \text{ anos} \approx 3 \text{ anos e 3 meses} $$
+
+**Nota**: $0,238 \times 12 \text{ meses} \approx \text{ 3 meses}$

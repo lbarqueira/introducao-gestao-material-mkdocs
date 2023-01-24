@@ -185,9 +185,24 @@ $$ r = TIR $$
 - **Aceitar um projeto com $VAL(r)>0$, dada a taxa de atualização $r$, é equivalente a, aceitá-lo quando $TIR>r$**
 
 
+### Período de Recuperação do Investimento (*PRI*, ou *Payback Period*)
 
-### Período de Recuperação do Investimento (*PRI*)
+Tempo necessário para que os *cash flows* atualizados gerados pelo projeto igualem (recuperem) o capital investido inicialmente. Mede portanto a rapidez de recuperação do capital inicial investido.
 
+$$ \sum _{k=0}^{PB} \frac{CF_k}{(1 + r)^k} = 0 $$
+
+onde:
+
+- $CF_k =$ *cash flow* do período $k$;
+
+- $PB =$ múmero de períodos do *Payback*;
+
+- $r =$ taxa de atualização.
+
+>Ver [Exercício 7](exercicios_3.md#exercicio-7) para exemplificação do cálculo do $PRI$, ou *Payback Period*.
+
+Se os *cash flows* acumulados nunca passarem a positivos o projeto não é rentável, sendo o *PRI* superior à vida útil do investimento.
 
 ### Índice de Rendibilidade (*IR*)
+
 
