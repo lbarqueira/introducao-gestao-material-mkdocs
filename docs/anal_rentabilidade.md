@@ -152,6 +152,8 @@ $$ \small = \text{taxa de remuneração do capital próprio} \times \%\text{capi
 
 ## Critérios de análise da rentabilidade dos projetos
 
+>Ver [Análise financeira para Ideias de Negócio | UAi Knowledge, 26.jul 2021](https://youtu.be/oOhgxLJlYrQ?t=4656) para vídeo explicativo sobre critérios de análise da rentabilidade dos projetos.
+
 ### O Valor Atual Líquido (*VAL*)
 
 O cálculo do *VAL* consiste na soma de todos os *cash flows* $CF_{k}$ do projeto devidamente atualizados:
