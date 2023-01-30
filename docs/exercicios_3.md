@@ -118,6 +118,27 @@ $$ = 0,07 \times 0,70 + 0,06 \times (1 - 0,30) \times 0,30 = 0,0616 = 6,16\% $$
 
 #### Exercício 7
 
+Uma empresa projeta construir um edifício em 2 anos, com custos de 900.000€ no ano $0$ e de 950.000€ no ano $1$. É de admitir que o edifício possa ser vendido em bloco passados mais dois anos pelo valor de 2.150.000€. Sabendo que a empresa se financia habitualmente em partes iguais (dívida e capital próprio), que o juro da dívida bancária é de 8%, que a taxa de imposto é de 25%, e que empresas similares cotadas em Bolsa oferecem uma rentabilidade de 10% ao ano, **diga se aconselha ou não o investimento**.
+
+__R__:
+
+TODO:
+
+&nbsp;
+
+#### Exercício 8
+
+**A TIR é inadequada para projetos mutuamente exclusivos**
+
+
+TODO:
+
+
+
+&nbsp;
+
+#### Exercício 9
+
 <figure markdown>
   <img src="../images/tabela_41.png" width="800">
   <figcaption>Mapa de Cash Flows</figcaption>

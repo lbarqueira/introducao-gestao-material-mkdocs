@@ -32,11 +32,12 @@ repo_url: https://github.com/lbarqueira/introducao-gestao-material-mkdocs
 # Configuration
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
     - toc.integrate
-    - navigation.top  
+    - navigation.top
   language: pt
   palette:
     - scheme: default

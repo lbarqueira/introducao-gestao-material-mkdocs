@@ -168,11 +168,11 @@ onde:
 
 Baseados no *VAL*, podem-se enunciar **duas regras de decisão**:
 
-- **Caso de um único projeto**: Se $VAL(r)>0$ $=>$ **Projeto Rentável** à taxa de atualização $r$;
+- **Caso de um único projeto**: Se $VAL(r)>0$ $=>$ **Projeto Rentável** à taxa de atualização $r$ (ou seja, há um acréscimo de valor para a empresa face ao custo dos recursos financeiros envolvidos);
 
-- **Caso de dois ou mais projetos**: Entre dois projetos $A$ e $B$, se $VAL_A > VAL_B$, Projecto $A$ é preferível a Projecto $B$.
+- **Caso de dois ou mais projetos**: Entre dois projetos $A$ e $B$, se $VAL_A > VAL_B$, **Projecto $A$ é preferível a Projecto $B$**.
 
-
+>Ver [Exercício 7](exercicios_3.md#exercicio-7) para exemplificação do cálculo do $VAL$.
 
 ### A Taxa Interna de Rentabilidade (*TIR*)
 
@@ -185,6 +185,15 @@ $$ r = TIR $$
 - Calcula-se iterativamente;
 
 - **Aceitar um projeto com $VAL(r)>0$, dada a taxa de atualização $r$, é equivalente a, aceitá-lo quando $TIR>r$**
+
+**Problemas no cálculo e na utilização da TIR**
+
+- Pode existir **mais do que uma TIR**. É o caso, por exemplo, da existência de *cash flows* negativos intermédios ou finais (investimentos não convencionais), causadas, nomeadamente, por necessidades de reinvestimento ao longo do projeto;
+
+- **Pode não existir TIR**;
+
+- **A TIR é inadequada para projetos mutuamente exclusivos** (i.e., em que só podemos fazer um deles, quer por limitações de recursos financeiros quer por limitações fisicas). Nesse caso, a seleção de projetos com base na **TIR**, é uma escolha muitas vezes errónea.
+Ver o [Exercício 8](exercicios_3.md#exercicio-8) que ilustra esta situação.
 
 
 ### Período de Recuperação do Investimento (*PRI*, ou *Payback Period*)
@@ -201,7 +210,7 @@ onde:
 
 - $r =$ taxa de atualização.
 
->Ver [Exercício 7](exercicios_3.md#exercicio-7) para exemplificação do cálculo do $PRI$, ou *Payback Period*.
+>Ver [Exercício 9](exercicios_3.md#exercicio-9) para exemplificação do cálculo do $PRI$, ou *Payback Period*.
 
 Se os *cash flows* acumulados nunca passarem a positivos o projeto não é rentável, sendo o *PRI* superior à vida útil do investimento.
 
