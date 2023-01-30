@@ -20,9 +20,9 @@ Subdividem-se em:
 
 &emsp;__b)__ Investimento em fundo de maneio de exploração (*Change in Noncash Working Capital*);
 
-&emsp;__c)__ Valor residual do investimento
+&emsp;__c)__ Valor residual do investimento.
 
-Desenvolvendo:
+Assim:
 
 **a) Despesas de investimento em capital fixo**
 
@@ -38,7 +38,7 @@ Desenvolvendo:
 
 - o investimento em fundo de maneio necessário de exploração pode ser calculado como a diferença entre as variações de ativos e passivos correntes, de curto prazo:
 
-$$ \text{Inv.FME} = \Delta (\text{Inventário} + \text{Clientes} - \text{Fornecedores}) $$
+$$ \small \text{Inv.FME} = \Delta (\text{Inventário} + \text{Clientes} - \text{Fornecedores}) $$
 
 **c) Valor Residual do Investimento**
 
