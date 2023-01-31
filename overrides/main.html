@@ -1,13 +1,19 @@
 {% extends "base.html" %}
 
 {% block announce %}
-  <!-- Add announcement here, including arbitrary HTML -->
-  <a href="https://twitter.com/barqueira">
-    Para atualizações siga <strong>LBarqueira</strong> no
-    <span class="twemoji twitter">
-      {% include ".icons/fontawesome/brands/twitter.svg" %}
-    </span>
-    <strong>Twitter</strong>
-  </a>
-  <span style="color:red">eBook estará disponível em meados de 2023</span>
+Follow me on <a href="https://www.linkedin.com/company/gaseri"><span class="twemoji">{% include ".icons/fontawesome/brands/linkedin.svg" %}</span> LinkedIn</a> and <a href="https://twitter.com/vedranmiletic"><span class="twemoji">{% include ".icons/fontawesome/brands/twitter.svg" %}</span> Twitter</a> for updates.
+{% endblock %}
+
+{% block content %}
+  {{ super() }}
+  {% if page and page.meta %}
+    <p>
+    {% if page.meta.author %}
+      <small>Author: {{ page.meta.author }}</small><br />
+    {% endif %}
+    {% if page.meta.date %}
+      <small>Date: {{ page.meta.date }}</small><br />
+    {% endif %}
+    </p>
+  {% endif %}
 {% endblock %}
