@@ -35,17 +35,11 @@ theme:
   custom_dir: overrides
   features:
     - announce.dismiss
-    - content.code.copy
-    - content.action.edit
-    - content.action.view
     - header.autohide
-    - navigation.instant
-    - navigation.indexes
-    - navigation.sections
     - navigation.tabs
+    - navigation.sections
+    - toc.integrate
     - navigation.top
-    - navigation.tracking
-    - toc.follow
   language: pt
   palette:
     - scheme: default
