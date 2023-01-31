@@ -128,12 +128,31 @@ TODO:
 
 #### Exercício 8
 
-**A TIR é inadequada para projetos mutuamente exclusivos**
+**A TIR é inadequada para comparar projetos mutuamente exclusivos (i.e, em que só podemos fazer um deles).**
 
+<figure markdown>
+  <img src="../images/tabela_42.png" width="800">
+  <figcaption>Projetos mutuamente exclusivos</figcaption>
+</figure> 
 
-TODO:
+*Nota*: $\small \text{IRR} = $ Internal Rate of Return
 
+O investimento mais pequeno (5.000€, **Proj.B**) apresenta maior $\text{TIR}$, contudo o investimento maior (10.000€, **Proj.A**) gera mais dinheiro (apresenta maior $\text{VAL}$).
 
+$$ \text{VAL}_A > \text{VAL}_B $$
+
+**Proj.A** é preferível ao **Proj.B**, a menos que se consiga aplicar os 5.000€ de diferença (dos investimentos) num projeto **B`** com uma $\text{TIR}$ superior a $15\%$ e um $\text{VAL}(5\%)$ superior a 991,15€
+
+**Outro exemplo**
+
+<figure markdown>
+  <img src="../images/tabela_43.png" width="600">
+  <figcaption>Projetos mutuamente exclusivos</figcaption>
+</figure> 
+
+$$ \text{VAL}_A > \text{VAL}_B $$
+
+**A é melhor que B** a menos que consiga aplicar o dinheiro excedente $\text{A-B}$ num projeto com rentabilidade maior do que $8\%$.
 
 &nbsp;
 
@@ -147,3 +166,9 @@ TODO:
 $$ \text{Payback Period} = 3 + \frac{100}{420} = 3,238 \text{ anos} \approx 3 \text{ anos e 3 meses} $$
 
 **Nota**: $0,238 \times 12 \text{ meses} \approx \text{ 3 meses}$
+
+&nbsp;
+
+#### Exercício 10
+
+**O IR (Índice de Rendibilidade) é inadequado para comparar projetos mutuamente exclusivos.**

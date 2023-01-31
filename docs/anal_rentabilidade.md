@@ -166,17 +166,17 @@ onde:
 
 - o período inicial é $0$.
 
-Baseados no *VAL*, podem-se enunciar **duas regras de decisão**:
+Baseados no $\text{VAL}$, podem-se enunciar **duas regras de decisão**:
 
-- **Caso de um único projeto**: Se $VAL(r)>0$ $=>$ **Projeto Rentável** à taxa de atualização $r$ (ou seja, há um acréscimo de valor para a empresa face ao custo dos recursos financeiros envolvidos);
+- **Caso de um único projeto**: Se $\text{VAL}(r)>0$ $=>$ **Projeto Rentável** à taxa de atualização $r$ (ou seja, há um acréscimo de valor para a empresa face ao custo dos recursos financeiros envolvidos);
 
-- **Caso de dois ou mais projetos**: Entre dois projetos $A$ e $B$, se $VAL_A > VAL_B$, **Projecto $A$ é preferível a Projecto $B$**.
+- **Caso de dois ou mais projetos**: Entre dois projetos $A$ e $B$, se $\text{VAL}_A > \text{VAL}_B$, **Projecto $A$ é preferível a Projecto $B$**.
 
 >Ver [Exercício 7](exercicios_3.md#exercicio-7) para exemplificação do cálculo do $VAL$.
 
 ### A Taxa Interna de Rentabilidade (*TIR*)
 
-Calculado a par do *VAL*, é outro indicador de rentabilidade. Corresponde à taxa de atualização para a qual o *VAL* é zero.
+Calculado a par do $\text{VAL}$, é outro indicador de rentabilidade. Corresponde à taxa de atualização $r$ para a qual o $\text{VAL}$ é zero.
 
 $$ \text{VAL(r)} = \sum _{k=0}^{n} \frac{CF_k}{(1 + r)^k} = 0 $$
 
@@ -184,11 +184,11 @@ $$ r = TIR $$
 
 - Calcula-se iterativamente;
 
-- **Aceitar um projeto com $VAL(r)>0$, dada a taxa de atualização $r$, é equivalente a, aceitá-lo quando $TIR>r$**
+- **Aceitar um projeto com $\text{VAL}(r)>0$, dada a taxa de atualização $r$, é equivalente a aceitá-lo quando $TIR>r$**
 
 **Problemas no cálculo e na utilização da TIR**
 
-- Pode existir **mais do que uma TIR**. É o caso, por exemplo, da existência de *cash flows* negativos intermédios ou finais (investimentos não convencionais), causadas, nomeadamente, por necessidades de reinvestimento ao longo do projeto;
+- Pode existir **mais do que uma TIR**. É o caso, por exemplo, da existência de *cash flows* negativos intermédios ou finais (investimentos não convencionais), causados, nomeadamente, por necessidades de reinvestimento ao longo do projeto;
 
 - **Pode não existir TIR**;
 
@@ -210,10 +210,23 @@ onde:
 
 - $r =$ taxa de atualização.
 
+**Outra fórmula**:
+
+$$ \text{PRI} = \text{Ano anterior à mudança de sinal no } CF_{acumulado} - \frac{\text{último } CF_{acumulado \; negativo}}{CF_{atualizado \; no \; primeiro \; acumulado \; positivo}} $$
+
+
 >Ver [Exercício 9](exercicios_3.md#exercicio-9) para exemplificação do cálculo do $PRI$, ou *Payback Period*.
 
 Se os *cash flows* acumulados nunca passarem a positivos o projeto não é rentável, sendo o *PRI* superior à vida útil do investimento.
 
 ### Índice de Rendibilidade (*IR*)
 
+$$ \text{IR} = \frac{\text{VAL} + \text{Investimento Inicial} }{\text{Investimento Inicial}} = \frac{\text{VA}}{\text{Investimento Inicial} } $$
 
+Um projeto considera-se aceitável (viável) quando $\text{IR}> 1$
+
+Trata-se de medir o valor atual ($\text{VA}$) gerado por unidade monetária investida.
+
+Tal como acontece com a $\text{TIR}$, o $\text{IR}$ é inadequado para comparar projetos mutuamente exclusivos (i.e, em que só podemos fazer um deles).
+
+>Ver [Exercício 10](exercicios_3.md#exercicio-10) para exemplificação do cálculo do $IR$, e o problema idêntico ao $TIR$ com investimentos mutuamente exclusivos.
