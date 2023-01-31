@@ -34,10 +34,10 @@ theme:
   name: material
   custom_dir: overrides
   features:
-    - announce.dismiss
     - header.autohide
     - navigation.tabs
     - navigation.sections
+    - navigation.footer
     - toc.integrate
     - navigation.top
   language: pt
