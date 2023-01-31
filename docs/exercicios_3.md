@@ -135,15 +135,15 @@ TODO:
   <figcaption>Projetos mutuamente exclusivos</figcaption>
 </figure> 
 
-*Nota*: $\small \text{IRR} = $ Internal Rate of Return
+*Nota*: $\small \text{IRR} =$ Internal Rate of Return
 
 O investimento mais pequeno (5.000€, **Proj.B**) apresenta maior $\text{TIR}$, contudo o investimento maior (10.000€, **Proj.A**) gera mais dinheiro (apresenta maior $\text{VAL}$).
 
 $$ \text{VAL}_A > \text{VAL}_B $$
 
-**Proj.A** é preferível ao **Proj.B**, a menos que se consiga aplicar os 5.000€ de diferença (dos investimentos) num projeto **B`** com uma $\text{TIR}$ superior a $15\%$ e um $\text{VAL}(5\%)$ superior a 991,15€
+O **Projeto A** é preferível ao **Projeto B**, a menos que se consiga aplicar os 5.000€ de diferença (dos investimentos) num projeto **B`** com uma $\text{TIR}$ superior a $15\%$ e um $\text{VAL}(5\%)$ superior a 991,15€
 
-**Outro exemplo**
+**Outro exemplo:**
 
 <figure markdown>
   <img src="../images/tabela_43.png" width="600">
@@ -152,7 +152,7 @@ $$ \text{VAL}_A > \text{VAL}_B $$
 
 $$ \text{VAL}_A > \text{VAL}_B $$
 
-**A é melhor que B** a menos que consiga aplicar o dinheiro excedente $\text{A-B}$ num projeto com rentabilidade maior do que $8\%$.
+O projeto **A é melhor que B** a menos que consiga aplicar o dinheiro excedente $\text{A-B}$ num projeto com rentabilidade maior do que $8\%$.
 
 &nbsp;
 
