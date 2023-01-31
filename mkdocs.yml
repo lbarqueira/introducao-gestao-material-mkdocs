@@ -34,10 +34,18 @@ theme:
   name: material
   custom_dir: overrides
   features:
-    - navigation.tabs
+    - announce.dismiss
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - header.autohide
+    - navigation.instant
+    - navigation.indexes
     - navigation.sections
-    - toc.integrate
+    - navigation.tabs
     - navigation.top
+    - navigation.tracking
+    - toc.follow
   language: pt
   palette:
     - scheme: default
