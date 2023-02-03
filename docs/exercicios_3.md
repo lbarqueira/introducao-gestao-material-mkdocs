@@ -143,7 +143,7 @@ $$ \text{VAL}_A > \text{VAL}_B $$
 
 O **Projeto A** é preferível ao **Projeto B**, a menos que se consiga aplicar os 5.000€ de diferença (dos investimentos) num projeto **B`** com uma $\text{TIR}$ superior a $15\%$ e um $\text{VAL}(5\%)$ superior a 991,15€
 
-**Outro exemplo:**
+**Outro exercício sobre o mesmo conceito:**
 
 <figure markdown>
   <img src="../images/tabela_43.png" width="600">
@@ -182,6 +182,8 @@ $$ \text{Payback Period} = 3 + \frac{100}{420} = 3,238 \text{ anos} \approx 3 \t
   <figcaption>Comparação de projetos com base no IR</figcaption>
 </figure>
 
+A coluna respeitante ao $\text{VA}$ serve apenas para exemplificar o cálculo do $\text{IR}$ nas duas formas distintas.
+
 Tendo por referência a tabela anterior, conclui-se o seguinte:
 
 Para a mesma taxa de atualização ($r = 10\%$), o **Projeto A** tem *maior rentabilidade por euro investido* do que o **Projeto B**, ou seja:
@@ -192,4 +194,4 @@ No entanto, o **projeto B** gera mais dinheiro que o **projeto A**:
 
 $$ \text{VAL}_B > \text{VAL}_A $$
 
-O projeto **B é melhor que A**, uma vez que gera mais dinheiro. O projeto **A** só será melhor, a menos que se consiga aplicar o dinheiro excedente (de investimento) $\text{B-A}$ = 9.000€, num outro projeto **B`** cujo **índice** de rendibilidade seja maior do que $1,89\%$.
+O projeto **B é melhor que A**, a menos que se consiga aplicar o dinheiro excedente (de investimento) $\text{B-A}$ = 9.000€, num outro projeto cujo **índice** de rendibilidade seja maior do que $1,89\%$, e o Valor Atual Líquido (à taxa de atualização de $10\%$) seja maior do que $8.000$€.
