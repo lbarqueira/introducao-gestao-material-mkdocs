@@ -152,7 +152,7 @@ O **Projeto A** é preferível ao **Projeto B**, a menos que se consiga aplicar 
 
 $$ \text{VAL}_A > \text{VAL}_B $$
 
-O projeto **A é melhor que B** a menos que consiga aplicar o dinheiro excedente $\text{A-B}$ num projeto com rentabilidade maior do que $8\%$.
+O projeto **A é melhor que B** a menos que consiga aplicar o dinheiro excedente (de investimento) $\text{A-B}$ num projeto com rentabilidade maior do que $8\%$.
 
 &nbsp;
 
@@ -163,6 +163,10 @@ O projeto **A é melhor que B** a menos que consiga aplicar o dinheiro excedente
   <figcaption>Mapa de Cash Flows</figcaption>
 </figure>
 
+Usamos a fórmula:
+
+$$ \text{PRI} = \text{Ano anterior à mudança de sinal no } CF_{acumulado} - \frac{\text{último } CF_{acumulado \; negativo}}{CF_{atualizado \; no \; primeiro \; acumulado \; positivo}} $$
+
 $$ \text{Payback Period} = 3 + \frac{100}{420} = 3,238 \text{ anos} \approx 3 \text{ anos e 3 meses} $$
 
 **Nota**: $0,238 \times 12 \text{ meses} \approx \text{ 3 meses}$
@@ -172,3 +176,20 @@ $$ \text{Payback Period} = 3 + \frac{100}{420} = 3,238 \text{ anos} \approx 3 \t
 #### Exercício 10
 
 **O IR (Índice de Rendibilidade) é inadequado para comparar projetos mutuamente exclusivos.**
+
+<figure markdown>
+  <img src="../images/tabela_44.png" width="800">
+  <figcaption>Comparação de projetos com base no IR</figcaption>
+</figure>
+
+Tendo por referência a tabela anterior, conclui-se o seguinte:
+
+Para a mesma taxa de atualização ($r = 10\%$), o **Projeto A** tem *maior rentabilidade por euro investido* do que o **Projeto B**, ou seja:
+
+$$ \text{IR}_A > \text{IR}_B $$
+
+No entanto, o **projeto B** gera mais dinheiro que o **projeto A**:
+
+$$ \text{VAL}_B > \text{VAL}_A $$
+
+O projeto **B é melhor que A**, uma vez que gera mais dinheiro. O projeto **A** só será melhor, a menos que se consiga aplicar o dinheiro excedente (de investimento) $\text{B-A}$ = 9.000€, num outro projeto **B`** cujo **índice** de rendibilidade seja maior do que $1,89\%$.

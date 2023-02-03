@@ -193,7 +193,7 @@ $$ r = TIR $$
 - **Pode não existir TIR**;
 
 - **A TIR é inadequada para projetos mutuamente exclusivos** (i.e., em que só podemos fazer um deles, quer por limitações de recursos financeiros quer por limitações fisicas). Nesse caso, a seleção de projetos com base na **TIR**, é uma escolha muitas vezes errónea.
-Ver o [Exercício 8](exercicios_3.md#exercicio-8) que ilustra esta situação.
+> Ver o [Exercício 8](exercicios_3.md#exercicio-8) que ilustra esta última situação, ou seja, que a TIR é inadequada para comparar projetos mutuamente exclusivos.
 
 
 ### Período de Recuperação do Investimento (*PRI*, ou *Payback Period*)
